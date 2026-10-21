@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Remedio Mail</title>
+    <item>
+      <title>Version 0.1.3</title>
+      <pubDate>Wed, 21 Oct 2026 12:32:40 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Updates itself:</b> Remedio Mail now checks for new versions daily and installs them when you quit (or Remedio Mail → Check for Updates…).</li><li><b>Google Calendar inside the app:</b> edit, create and delete events, Accept / Tentative / Decline invitations, Google Meet links.</li><li><b>Meeting reminders</b> with a Join button (Settings → Calendar).</li><li>Work account offered automatically on Macs with Microsoft Entra Platform SSO.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.3/RemedioMail-0.1.3.zip" type="application/octet-stream" sparkle:edSignature="Wy5Sxbtlbhgb/5Soeo5pP8ytd7+jpqtLE3kTnk1Yd/BduDFehD3coa7TfpB6BoBQDzL/gqkIxyEXNLIsNofECg==" length="11411172"/>
+    </item>
+  </channel>
+</rss>
