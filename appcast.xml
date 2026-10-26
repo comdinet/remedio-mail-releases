@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.47</title>
+      <pubDate>Mon, 26 Oct 2026 23:10:45 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.1.47</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day no longer jumps in one window when you resize it in another</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.47/RemedioMail-0.1.47.zip" type="application/octet-stream" sparkle:edSignature="7cOR9OS6RfF+PaJnmpUBOxH3Gy1E3g9PqWresaq7JV/lXaqRNOZwStJQjtDmVm8t3d9Ym4lzTX2D+0jaXCLdCQ==" length="17092837"/>
+    </item>
+    <item>
       <title>Version 0.1.46</title>
       <pubDate>Mon, 26 Oct 2026 23:05:42 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
