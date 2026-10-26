@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.19</title>
+      <pubDate>Mon, 26 Oct 2026 14:24:35 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Scroll positions stay put: the message list per mailbox, the Calendar's hour, and the Tasks and People lists, across module switches and relaunch</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.19/RemedioMail-0.1.19.zip" type="application/octet-stream" sparkle:edSignature="rbbrq4O5381pPYfbFvTxXufmaEpcgERMcUcb3h5eEKB64E2Vu5Jfh5s/llcVt78sZkTcMAH6SPDn3huu7PkvCA==" length="15542350"/>
+    </item>
+    <item>
       <title>Version 0.1.18</title>
       <pubDate>Mon, 26 Oct 2026 14:17:21 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
