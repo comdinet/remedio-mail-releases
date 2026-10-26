@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.6</title>
+      <pubDate>Mon, 26 Oct 2026 11:55:19 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Google Tasks in Tasks and My Day; flagging a Gmail message creates a Google task (reconnect your Google account once in Settings → Accounts)</li><li>My Day's agenda shows only your own calendar, not shared or subscribed ones</li><li>Selected rows show white text again in themes without their own colors</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.6/RemedioMail-0.1.6.zip" type="application/octet-stream" sparkle:edSignature="k74bzsf4kJkY8rvzxavaiSDWEdpkLlNC4I/Oa3yDi4eNcRsYrLKiNmCjSXkGExZfVrv/rL6cAk1kJzEp6+x4AQ==" length="14073194"/>
+    </item>
+    <item>
       <title>Version 0.1.5</title>
       <pubDate>Mon, 26 Oct 2026 11:41:05 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
