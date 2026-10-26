@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.44</title>
+      <pubDate>Mon, 26 Oct 2026 22:46:29 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day's divider widens My Day only into room the window has; it no longer jumps to its maximum or makes the window much wider</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.44/RemedioMail-0.1.44.zip" type="application/octet-stream" sparkle:edSignature="lm/V2tNWXQzPRTexz0uFIBJn6q91bQphligdi8IvGNX59paYsQ9jc7bynfl3Sn6Jrx9nfgmTqu0DFMbZldDnBg==" length="17038714"/>
+    </item>
+    <item>
       <title>Version 0.1.43</title>
       <pubDate>Mon, 26 Oct 2026 22:20:53 GMT</pubDate>
       <sparkle:version>44</sparkle:version>
