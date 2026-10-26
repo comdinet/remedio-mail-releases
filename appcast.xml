@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.32</title>
+      <pubDate>Mon, 26 Oct 2026 21:28:04 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Remote images: Always Load from this sender or domain, right from the banner</li><li>New Settings → Privacy: load remote images Ask/Always/Never, an allowed-senders list, optionally your organization, and auto-download of small attachments</li><li>Junk and mail that fails sender checks never load images automatically</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.32/RemedioMail-0.1.32.zip" type="application/octet-stream" sparkle:edSignature="hkCyW35nvu1ms0mMMziftfzqzpBiTJUJjajUmK0eCWbp5mQWGiq0fsK2qglS0Y9PUFPVrrvBTlcAWCUSu9boCQ==" length="15869224"/>
+    </item>
+    <item>
       <title>Version 0.1.31</title>
       <pubDate>Mon, 26 Oct 2026 21:22:12 GMT</pubDate>
       <sparkle:version>32</sparkle:version>
