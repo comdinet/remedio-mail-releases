@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.12</title>
+      <pubDate>Mon, 26 Oct 2026 13:32:19 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: new events default to your Google calendar; colleagues' calendars under Shared Calendars</li><li>Calendar: create events with right-click, double-click or drag (a click only selects); short events are readable</li><li>Room picker names the real reason when Google withholds the room list</li><li>Outlook and Gmail layouts: toolbar matches the window color; quieter My Day</li><li>One clear notice bar for blocked images and connection errors; clearer Add Account</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.12/RemedioMail-0.1.12.zip" type="application/octet-stream" sparkle:edSignature="1PlulryKloNbxwY6lhljZRjEW6uxHKzpuFz0AskMOMJImx3ZqNVHJCQAHS0K4z1VvxatPSKJq992bF8Ae6cJDg==" length="14690332"/>
+    </item>
+    <item>
       <title>Version 0.1.11</title>
       <pubDate>Mon, 26 Oct 2026 13:01:20 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
