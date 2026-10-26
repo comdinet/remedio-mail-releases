@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.9</title>
+      <pubDate>Mon, 26 Oct 2026 12:33:10 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Meeting reminders only for your own calendars, not colleagues' shared calendars, rooms or holidays</li><li>Shared and read-only calendars: no reply buttons, and invitations can't be edited or dragged unless you organize them</li><li>Cancelled meetings are dimmed, with no Join or reminder</li><li>Join only for real meeting links (not Gong or Zoom recordings)</li><li>Group invitations get reply buttons; private events show Busy</li><li>My Day's next meeting skips declined and cancelled ones</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.9/RemedioMail-0.1.9.zip" type="application/octet-stream" sparkle:edSignature="oHLrNBW59iuTRjm19rRUsWqVAGYe6QcngnG7FLn/m8c312JbgmH546g9IyA3Y58uU33N75imwZvHFPMWi/KBBw==" length="14087762"/>
+    </item>
+    <item>
       <title>Version 0.1.8</title>
       <pubDate>Mon, 26 Oct 2026 12:16:52 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
