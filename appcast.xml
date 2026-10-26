@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.31</title>
+      <pubDate>Mon, 26 Oct 2026 21:22:12 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day: one continuous toolbar band in every layout, and only one button to open it</li><li>Apple Mail layout: the list/reader line stops at the toolbar; the mailbox title has proper spacing</li><li>Gmail layout: one set of mailboxes with a single account; No Message Selected in the empty reader</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.31/RemedioMail-0.1.31.zip" type="application/octet-stream" sparkle:edSignature="q/IFcYGIHefc+8oMpCp3B87+D+FL1W33lZVCJbkhfW0UyZcZglJHU8kSvU5cYnAibjSkOT6GCtChOTsoPPtOBQ==" length="15755660"/>
+    </item>
+    <item>
       <title>Version 0.1.30</title>
       <pubDate>Mon, 26 Oct 2026 20:56:56 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
