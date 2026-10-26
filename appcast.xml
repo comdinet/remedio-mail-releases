@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.18</title>
+      <pubDate>Mon, 26 Oct 2026 14:17:21 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Event editor: invitees as name chips with suggestions from your contacts and the directory</li><li>New date and time pickers: a month calendar for the date and a time list that shows the meeting length</li><li>Online meeting and rooms as pills; booked rooms as chips</li><li>Tasks: due date and reminder use the same date and time pickers</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.18/RemedioMail-0.1.18.zip" type="application/octet-stream" sparkle:edSignature="y1woJ517K4klR7JetG23wMuHpBO9DnTu/fnMFzJWvxsdrYX0WTVdUJUthmK8Y3Yv3vOcu/shmgQFIb3GKdkPAA==" length="15507899"/>
+    </item>
+    <item>
       <title>Version 0.1.17</title>
       <pubDate>Mon, 26 Oct 2026 14:08:00 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
