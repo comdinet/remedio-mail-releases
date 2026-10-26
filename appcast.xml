@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.29</title>
+      <pubDate>Mon, 26 Oct 2026 20:53:47 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day can be made 50% wider (up to 630 pt)</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.29/RemedioMail-0.1.29.zip" type="application/octet-stream" sparkle:edSignature="6pxZ9IykHWnEHHJNDAmN+TAmpr/Km5Jk4oR3ox2VRBmC975eRTs49+t+5z+vbn1IzvvSW5LQY8cCQBM9sLvyAA==" length="15665899"/>
+    </item>
+    <item>
       <title>Version 0.1.28</title>
       <pubDate>Mon, 26 Oct 2026 19:25:09 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
