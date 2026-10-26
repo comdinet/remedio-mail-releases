@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.41</title>
+      <pubDate>Mon, 26 Oct 2026 22:07:30 GMT</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>One Drafts mailbox: drafts saved in the app and in Gmail together, newest first, no duplicates</li><li>Gmail drafts open in Compose, editable with their attachments; sending or deleting moves the server copy to Trash</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.41/RemedioMail-0.1.41.zip" type="application/octet-stream" sparkle:edSignature="HHDGfD+iMCn0Qja+Iv+HLyYzNZWKsuQ7PTCLcL/XHu3FBphQYmNlHpBMFLWaIjaORBFsJhAQRyOQqsucLqgLCg==" length="17012311"/>
+    </item>
+    <item>
       <title>Version 0.1.40</title>
       <pubDate>Mon, 26 Oct 2026 22:03:31 GMT</pubDate>
       <sparkle:version>41</sparkle:version>
