@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.16</title>
+      <pubDate>Mon, 26 Oct 2026 14:01:57 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Outlook layout: one toolbar band, and the module rail runs full height in one color, like new Outlook for Mac</li><li>Gmail layout: toolbar matches the window color</li><li>People's panes no longer draw over the title bar</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.16/RemedioMail-0.1.16.zip" type="application/octet-stream" sparkle:edSignature="Gid5XV30ZLpNAShX6OdlQhp8n8yofXztI2ILZB44iCOpqDqXdpNNzXc8s7ssLhhZEPMa2PU26oRfhQtisXMYDw==" length="15261551"/>
+    </item>
+    <item>
       <title>Version 0.1.15</title>
       <pubDate>Mon, 26 Oct 2026 13:59:22 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
