@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.45</title>
+      <pubDate>Mon, 26 Oct 2026 22:59:15 GMT</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day is now its own column: dragging its divider never changes the window size, and it stops where the message reaches its minimum</li><li>Your My Day width carries over; message actions stay above the message and the My Day button above My Day</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.45/RemedioMail-0.1.45.zip" type="application/octet-stream" sparkle:edSignature="nv0VHaC7/CcXCXWRzAc3ETgGFGNdo07rHGjSUOXlehO1iyq56jAmPOqXFeBRzL/xbraTioKN5RR/5GW1nbfbAg==" length="17073563"/>
+    </item>
+    <item>
       <title>Version 0.1.44</title>
       <pubDate>Mon, 26 Oct 2026 22:46:29 GMT</pubDate>
       <sparkle:version>45</sparkle:version>
