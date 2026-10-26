@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.15</title>
+      <pubDate>Mon, 26 Oct 2026 13:59:22 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Groundwork for the company directory from IT.remedio.io (Settings → Accounts → Company directory; switched on once IT.remedio.io is ready)</li><li>Storage → Clear Directory also refreshes the company directory</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.15/RemedioMail-0.1.15.zip" type="application/octet-stream" sparkle:edSignature="10B96RwNbwapkO4GPyEhYaIO6kT+HABIQudx2fQtp8pUi6BGPjSY8z1F+8GDX8ItVoGeH2GjS3D24/NPqSCbBg==" length="15259480"/>
+    </item>
+    <item>
       <title>Version 0.1.14</title>
       <pubDate>Mon, 26 Oct 2026 13:54:20 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
