@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.26</title>
+      <pubDate>Mon, 26 Oct 2026 15:20:08 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Apple Mail layout: dragging the message list no longer grows the mailbox sidebar; the sidebar stays 180–360 pt and an oversized saved width is corrected</li><li>The message list can be up to 900 pt wide; the reader always keeps room</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.26/RemedioMail-0.1.26.zip" type="application/octet-stream" sparkle:edSignature="4mBjfaUrhXJkQk/aWTTjImIHerg5v4pga7aIl7WMOWYDbfat7OHJhta0oeo3CgcwtZakIB/lZXYwBKdTyBzeAw==" length="15640942"/>
+    </item>
+    <item>
       <title>Version 0.1.25</title>
       <pubDate>Mon, 26 Oct 2026 15:08:23 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
