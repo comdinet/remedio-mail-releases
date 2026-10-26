@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.27</title>
+      <pubDate>Mon, 26 Oct 2026 19:20:25 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Microsoft 365: replies on a colleague's shared calendar are refused; editing and deleting events on shared calendars now works</li><li>Remove from Calendar for cancelled meetings and unwanted invitations (on Google it tells the organizer you declined, as Google does)</li><li>Google working-location events no longer ring like meetings; read-only events never open the editor</li><li>Delegated Mac calendars count as shared: no reply buttons or reminders</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.27/RemedioMail-0.1.27.zip" type="application/octet-stream" sparkle:edSignature="eoB7owZOgXtrQY4rMiZVe6dPX6HNpuVg+xUQd6E7exVCWZz1MPvWKqFvLxyk9QrxTl3gLkt7f/sWlEceSlKcAQ==" length="15668686"/>
+    </item>
+    <item>
       <title>Version 0.1.26</title>
       <pubDate>Mon, 26 Oct 2026 15:20:08 GMT</pubDate>
       <sparkle:version>27</sparkle:version>
