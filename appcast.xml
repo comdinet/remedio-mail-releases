@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.35</title>
+      <pubDate>Mon, 26 Oct 2026 21:43:24 GMT</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Reading Pane: Right, Bottom or Off (View → Reading Pane, ⌥⌘1–3), saved per layout; double-click opens a message in its own window</li><li>Signatures sync from Gmail automatically</li><li>Remote images: tighter privacy (allow-lists apply exactly, plus-addresses stay separate, older messages are re-checked)</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.35/RemedioMail-0.1.35.zip" type="application/octet-stream" sparkle:edSignature="hUxU/+wxdzsnJ2sMn1RDa4iN5iM9uEMhvS7GxOgHHhhnGbv+46WT5NEqeX0UtNGSTAgyptKIhLzdldE0Lp2mDQ==" length="16797051"/>
+    </item>
+    <item>
       <title>Version 0.1.34</title>
       <pubDate>Mon, 26 Oct 2026 21:38:01 GMT</pubDate>
       <sparkle:version>35</sparkle:version>
