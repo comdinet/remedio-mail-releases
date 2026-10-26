@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.5</title>
+      <pubDate>Mon, 26 Oct 2026 11:41:05 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day shows your Google Calendar meetings and tasks; emails dropped on the agenda become events in your Google calendar</li><li>New events default to your Google calendar</li><li>Coworkers show only their primary address in People and Compose</li><li>Settings stays on Appearance when you pick a theme</li><li>If macOS has notifications off, the app offers to open Notification Settings (needed for the Dock badge)</li><li>Developer builds run as a separate app</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.5/RemedioMail-0.1.5.zip" type="application/octet-stream" sparkle:edSignature="xPfT+FSsPdFZhe7+BOkO1hdOlUcSWHA8rrq34sTx5pviw5oJSlUOwSjqV9zHPyRe1cSBMdWyxM7Bh9fx7JzSAg==" length="13943094"/>
+    </item>
+    <item>
       <title>Version 0.1.4</title>
       <pubDate>Mon, 26 Oct 2026 11:21:00 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
