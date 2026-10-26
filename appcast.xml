@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.37</title>
+      <pubDate>Mon, 26 Oct 2026 21:51:54 GMT</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>One set of mailboxes with a single account in every layout (Inbox, not All Inboxes)</li><li>Gmail layout: Gmail's own order, a folding More (Drafts on Server, Junk, Trash, Archive), a Labels heading, and the unread count in the empty reader</li><li>Gmail layout: toolbar row, search field and Compose button match Gmail</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.37/RemedioMail-0.1.37.zip" type="application/octet-stream" sparkle:edSignature="2CJINqm0OJPu9hlDREyC4oIw4jRyiVLrK0ZUwppDu8q2OM5zt2Jm/2JCO7vH0vUPWyhVCBg6NdVt8CxHU5zBDA==" length="16865351"/>
+    </item>
+    <item>
       <title>Version 0.1.36</title>
       <pubDate>Mon, 26 Oct 2026 21:48:19 GMT</pubDate>
       <sparkle:version>37</sparkle:version>
