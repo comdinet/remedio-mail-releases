@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.14</title>
+      <pubDate>Mon, 26 Oct 2026 13:54:20 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New Settings → Storage: how far back and ahead Calendar stays offline, how often data refreshes, how much mail downloads per mailbox</li><li>See how much space Mail, Attachments, Calendar, Tasks and Directory use, and clear each one</li><li>Old calendar events outside the window are trimmed automatically</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.14/RemedioMail-0.1.14.zip" type="application/octet-stream" sparkle:edSignature="x5o22MWYH1B0Ux5Y8gmCAMcvq8hz7/i8ubciD+fjmpp4/czdI9pW8t29WTxSX0doNzNOchAs1q/aHBDfqnshDw==" length="14968992"/>
+    </item>
+    <item>
       <title>Version 0.1.13</title>
       <pubDate>Mon, 26 Oct 2026 13:35:16 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
