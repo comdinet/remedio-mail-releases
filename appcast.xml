@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.24</title>
+      <pubDate>Mon, 26 Oct 2026 15:02:52 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Outlook and Gmail layouts: pane dividers can be dragged along their full height (also beside the message), show the resize cursor, and keep their width after relaunch</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.24/RemedioMail-0.1.24.zip" type="application/octet-stream" sparkle:edSignature="hMlg1RWrUfRJRu/wMMTuILG0eTnGlPfXFIstfKGCoZEzA5ss/cBOiyb7T4QkJnFN83o+Dq/PIBhAejE8OkRFAQ==" length="15624900"/>
+    </item>
+    <item>
       <title>Version 0.1.23</title>
       <pubDate>Mon, 26 Oct 2026 14:54:44 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
