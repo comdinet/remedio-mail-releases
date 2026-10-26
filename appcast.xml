@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.13</title>
+      <pubDate>Mon, 26 Oct 2026 13:35:16 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Send closes the message at once; it goes to the Outbox and sends in the background</li><li>Retries when offline or when Google is busy, and resumes after relaunch</li><li>If Google refuses a message, you're notified and it reopens for editing</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.13/RemedioMail-0.1.13.zip" type="application/octet-stream" sparkle:edSignature="1nG6oFT1ivC5EyhjKWNy0Vuf04DUN8yZAzP0POuTggYXiwR+q4Bud3GfUUdpmUTpQsIT59O5KufnEZHw7DvYDQ==" length="14872097"/>
+    </item>
+    <item>
       <title>Version 0.1.12</title>
       <pubDate>Mon, 26 Oct 2026 13:32:19 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
