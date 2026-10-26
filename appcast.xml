@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.39</title>
+      <pubDate>Mon, 26 Oct 2026 21:58:45 GMT</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Message rows show From, Subject and Preview stacked in every layout</li><li>Message List setting: Subject only, or Subject + 1–3 preview lines (Settings → Appearance, View → Message List)</li><li>Outlook and Gmail: the folder pane folds to an icon column (sidebar button, ⌃⌘S, double-click or drag the divider)</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.39/RemedioMail-0.1.39.zip" type="application/octet-stream" sparkle:edSignature="5uwRHxmcNJ9x8HU2nzL0UYIDXfepoPXSMGtlr2mc0CDsxYlz+PIq/cypWYeEW2tsFtIEK17TfauuizkBcSomAg==" length="16971526"/>
+    </item>
+    <item>
       <title>Version 0.1.38</title>
       <pubDate>Mon, 26 Oct 2026 21:55:50 GMT</pubDate>
       <sparkle:version>39</sparkle:version>
