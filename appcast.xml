@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.42</title>
+      <pubDate>Mon, 26 Oct 2026 22:17:24 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gmail drafts only open when they can be fully downloaded; otherwise you see an error with Try Again, and the draft on the server is never touched</li><li>Bcc recipients are kept when opening a Gmail draft</li><li>The Drafts list updates after each sync</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.42/RemedioMail-0.1.42.zip" type="application/octet-stream" sparkle:edSignature="HpdJPLjM3iCI6z1Rh4BW+UjtrjFFspl+b2v6PakhH7/F7Rz8tWTW8vbHODVo+QCYOU+AcL1n1iForQ11/o4NAw==" length="17025460"/>
+    </item>
+    <item>
       <title>Version 0.1.41</title>
       <pubDate>Mon, 26 Oct 2026 22:07:30 GMT</pubDate>
       <sparkle:version>42</sparkle:version>
