@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.17</title>
+      <pubDate>Mon, 26 Oct 2026 14:08:00 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Pane dividers keep their position after you quit, per layout and module; the window remembers its size and place</li><li>Each divider moves only its own edge (the Outlook reading pane no longer moves the folders)</li><li>Gmail layout: sidebar and message list can be resized</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.17/RemedioMail-0.1.17.zip" type="application/octet-stream" sparkle:edSignature="+SY/inGnTjdBBbJqS/iRcYDcBy354Z+s8BDyPHqnwngN4yBU3+0JJecEuXW3RDN7AgGsE6XXZcNlaIDdnmPrDA==" length="15306611"/>
+    </item>
+    <item>
       <title>Version 0.1.16</title>
       <pubDate>Mon, 26 Oct 2026 14:01:57 GMT</pubDate>
       <sparkle:version>17</sparkle:version>
