@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.38</title>
+      <pubDate>Mon, 26 Oct 2026 21:55:50 GMT</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Compose toolbars polished: Outlook ribbon groups line up, consistent icons, format bars aligned with the address fields</li><li>Right-to-left layouts: each divider still moves only its own edge</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.38/RemedioMail-0.1.38.zip" type="application/octet-stream" sparkle:edSignature="n+jwl+HnzdmQebAXOYpm9EPNUhY/QSg8YENAYenPps8cJzTxOSydQYRyDK6NEe4Q090WKGXgPTzqLGfBrCi+AA==" length="16869406"/>
+    </item>
+    <item>
       <title>Version 0.1.37</title>
       <pubDate>Mon, 26 Oct 2026 21:51:54 GMT</pubDate>
       <sparkle:version>38</sparkle:version>
