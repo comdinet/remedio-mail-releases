@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.28</title>
+      <pubDate>Mon, 26 Oct 2026 19:25:09 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Zoom shows 'Not available yet' until it's set up for Remedio, instead of asking you to create files; its Zoom options are hidden until then</li><li>Zoom sign-in uses PKCE with no secret</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.28/RemedioMail-0.1.28.zip" type="application/octet-stream" sparkle:edSignature="xHl1xMGqmUbhlH9NYRZcnG21+ThHVD0NIeihYG9i5hYByQ5ugNu3m8gvo4w2bb1Lnbx6/3tfW+uZBEljLAPqCQ==" length="15665895"/>
+    </item>
+    <item>
       <title>Version 0.1.27</title>
       <pubDate>Mon, 26 Oct 2026 19:20:25 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
