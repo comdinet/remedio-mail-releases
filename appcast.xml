@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.10</title>
+      <pubDate>Mon, 26 Oct 2026 12:44:14 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New Message looks like each layout's own app: Apple Mail, Outlook or Gmail</li><li>Recipients read as plain names; clearer placeholders and attachment chips</li><li>Settings → Accounts: Apple Mail's + / − bar, readable selection, no stripes</li><li>Readable selected rows and accent text in every theme</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.10/RemedioMail-0.1.10.zip" type="application/octet-stream" sparkle:edSignature="HRr4dUKlM+5zW+HIimlnGdvSOMoLM+EREh02PoFHfBNiXXhvEhgqsVcFbpk+yfwoo5VOUhNrUR3mgXl6BgHQCw==" length="14346889"/>
+    </item>
+    <item>
       <title>Version 0.1.9</title>
       <pubDate>Mon, 26 Oct 2026 12:33:10 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
