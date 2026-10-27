@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.68</title>
+      <pubDate>Tue, 27 Oct 2026 13:54:01 GMT</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>0.1.68</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Suggestions, event popovers, date and time pickers, the invitee list and the Undo Send toast now float in your theme's style.</li><li>A new message or Forward opens with the cursor in To; a Reply opens in the body above the quote.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.68/RemedioMail-0.1.68.zip" type="application/octet-stream" sparkle:edSignature="HLNVPpp5X+oatSrRm00gCJ+JWD3Bv4PweLzLWXqALQA/DgJRE4W4ZKzl3yRxgNnpc7YZ6Y5aYQbp2wa5PsydCQ==" length="17529124"/>
+    </item>
+    <item>
       <title>Version 0.1.67</title>
       <pubDate>Tue, 27 Oct 2026 13:41:52 GMT</pubDate>
       <sparkle:version>68</sparkle:version>
