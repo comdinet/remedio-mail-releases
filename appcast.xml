@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.54</title>
+      <pubDate>Tue, 27 Oct 2026 09:54:46 GMT</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gmail signatures: no false 'changed in Gmail' warning after your own save, and no stray Save button when the editor reloads.</li><li>Collapsed folder pane (Outlook, Gmail): errors show as a warning button, and folder tooltips name their account when you have several.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.54/RemedioMail-0.1.54.zip" type="application/octet-stream" sparkle:edSignature="eG9LpkasLQAxcH0s72akoUNt2ghPKZeQ5fSQpVvDM3tTdgaAEuw2EunEZ6J+NbfUbv0K6et2xEOg0pZonw9yDQ==" length="17166693"/>
+    </item>
+    <item>
       <title>Version 0.1.53</title>
       <pubDate>Tue, 27 Oct 2026 09:44:39 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
