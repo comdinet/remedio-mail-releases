@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.51</title>
+      <pubDate>Tue, 27 Oct 2026 09:35:55 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.1.51</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gmail signatures: a Gmail update never replaces a signature you're editing, even mid-keystroke.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.51/RemedioMail-0.1.51.zip" type="application/octet-stream" sparkle:edSignature="hMkUW38VTZnATJq18jX0PwHRG56/EnDbEorea7zt448D7mDFiJdbC4zCxveTuqUcr6GUUX1S+X5u7z+v5p23Bw==" length="17145460"/>
+    </item>
+    <item>
       <title>Version 0.1.50</title>
       <pubDate>Tue, 27 Oct 2026 09:29:31 GMT</pubDate>
       <sparkle:version>51</sparkle:version>
