@@ -3,6 +3,24 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.81</title>
+      <pubDate>Tue, 27 Oct 2026 17:53:52 GMT</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>0.1.81</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>HubSpot plugin prepared for per-user access (still hidden until its sign-in is set up).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.81/RemedioMail-0.1.81.zip" type="application/octet-stream" sparkle:edSignature="+lntUrr/2ktipLvV0ojwDEeqYwYX5uZNsCvMDyKnmW545fysecsQcvIDppD56MgSiaDdhfmEfWMcTgxAaa6RAw==" length="22749575"/>
+    </item>
+    <item>
+      <title>Version 0.1.80</title>
+      <pubDate>Tue, 27 Oct 2026 17:39:24 GMT</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>0.1.80</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>HubSpot: connect it in Settings → Plugins → HubSpot to see a sender's contact, company and deals.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.80/RemedioMail-0.1.80.zip" type="application/octet-stream" sparkle:edSignature="BhFHqOpYeBuxp54W/QCi0U1X/rYWZMhHMoYbOb/VwlNKIo1xa/AL16hQsXQjqt09GqG1sXdJKNLP08ZnRyLMBg==" length="22747880"/>
+    </item>
+    <item>
       <title>Version 0.1.79</title>
       <pubDate>Tue, 27 Oct 2026 17:34:53 GMT</pubDate>
       <sparkle:version>81</sparkle:version>
