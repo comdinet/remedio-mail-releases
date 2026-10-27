@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.65</title>
+      <pubDate>Tue, 27 Oct 2026 12:48:14 GMT</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.1.65</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Signatures: a pasted picture that comes back (Redo, or pasted again) keeps its downloaded image.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.65/RemedioMail-0.1.65.zip" type="application/octet-stream" sparkle:edSignature="02THnedae2kbpr5EX2c/B832j9LRe9+MHJDXrt/WfH9F72RFjVWTwh+tJXagRs3MHL2Z59IMwAoauku++vbpAw==" length="17412757"/>
+    </item>
+    <item>
       <title>Version 0.1.64</title>
       <pubDate>Tue, 27 Oct 2026 12:15:31 GMT</pubDate>
       <sparkle:version>65</sparkle:version>
