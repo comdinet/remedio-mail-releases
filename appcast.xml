@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.66</title>
+      <pubDate>Tue, 27 Oct 2026 13:11:18 GMT</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>0.1.66</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day's mini calendar: ‹ on the left, › on the right, and the expand arrow under the weeks.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.66/RemedioMail-0.1.66.zip" type="application/octet-stream" sparkle:edSignature="PKgOuwCmtLON9U5PpmtK+W/wtZFdtPGS2jHUGFthMFPihq7US9pLIl449JFzCj+jlPFApdTAS+J1bwawwsGADA==" length="17412684"/>
+    </item>
+    <item>
       <title>Version 0.1.65</title>
       <pubDate>Tue, 27 Oct 2026 12:48:14 GMT</pubDate>
       <sparkle:version>66</sparkle:version>
