@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.53</title>
+      <pubDate>Tue, 27 Oct 2026 09:44:39 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Zoom is available: Settings → Plugins → Zoom → Connect, then add a Zoom meeting to an invitation.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.53/RemedioMail-0.1.53.zip" type="application/octet-stream" sparkle:edSignature="iiWqCuTW30zffResOevBdMocUdV/LaCfXpXryGyIXOZlgjPffcEg4Av+wF48t2NsQVCMG8tpSC6t1nMcDPBRDw==" length="17148545"/>
+    </item>
+    <item>
       <title>Version 0.1.52</title>
       <pubDate>Tue, 27 Oct 2026 09:41:37 GMT</pubDate>
       <sparkle:version>53</sparkle:version>
