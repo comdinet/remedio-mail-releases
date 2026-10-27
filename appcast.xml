@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.61</title>
+      <pubDate>Tue, 27 Oct 2026 11:44:48 GMT</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Signatures: unsaved edits survive Gmail clearing a signature, a save finishing while you type, reopening a signature while pictures embed, and a sync racing a save.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.61/RemedioMail-0.1.61.zip" type="application/octet-stream" sparkle:edSignature="dsRhqhHnbdxLTqWP0kU+e4cr8pit84qMIQK/p54MN7g6Kc+m+36zW1lxpjcJHjnc8oe/VNxyn4GTzgJf6RyTAg==" length="17412352"/>
+    </item>
+    <item>
       <title>Version 0.1.60</title>
       <pubDate>Tue, 27 Oct 2026 11:35:30 GMT</pubDate>
       <sparkle:version>61</sparkle:version>
