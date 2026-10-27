@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.60</title>
+      <pubDate>Tue, 27 Oct 2026 11:35:30 GMT</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Compose: Replace All never crosses a line break or removes a picture, and works with any letters when ignoring case.</li><li>Signatures: leaving the editor keeps your edits; an unsaved Gmail edit is kept (marked with a dot) until you Save to Gmail or Revert.</li><li>Zoom: a meeting that couldn't be deleted after a failed save is retried on the next sync.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.60/RemedioMail-0.1.60.zip" type="application/octet-stream" sparkle:edSignature="iCy+XOzRCcFR31sbO2xjyZ7UBBcQe/9ONzF4O4k146KB1eLTGyicAnRs6pWTi7YNRorIm60jkm6s1Rm6CkAxAw==" length="17391637"/>
+    </item>
+    <item>
       <title>Version 0.1.59</title>
       <pubDate>Tue, 27 Oct 2026 10:41:59 GMT</pubDate>
       <sparkle:version>60</sparkle:version>
