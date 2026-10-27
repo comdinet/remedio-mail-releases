@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.74</title>
+      <pubDate>Tue, 27 Oct 2026 15:35:46 GMT</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Search Folders: Unread Mail, Flagged and your own saved searches in the sidebar, with live counts.</li><li>Search operators: from:, to:, subject:, has:attachment, is:unread, in:, label:, dates, sizes, quotes, -, OR, with suggestions as you type.</li><li>Rules: edit your Gmail filters in Settings → Rules, local rules for alerts, and Create Rule from Message….</li><li>Undo Send on by default (Settings → Composing), and Send Later with a Scheduled mailbox.</li><li>Print and Save as PDF (⌘P) for messages, threads and calendar views.</li><li>@mentions in Compose add the person or group to Cc.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.74/RemedioMail-0.1.74.zip" type="application/octet-stream" sparkle:edSignature="jNHJ7fG3OLTOEay5HYZiD7+6Wx2lRAYxEMujKnKwZq1ZVk8CZhaMXLdCFAuQ5dBZDd3JNTUk2HTEjl2yKiTFAA==" length="22148360"/>
+    </item>
+    <item>
       <title>Version 0.1.73</title>
       <pubDate>Tue, 27 Oct 2026 15:24:46 GMT</pubDate>
       <sparkle:version>74</sparkle:version>
