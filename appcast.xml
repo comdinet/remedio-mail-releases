@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.85</title>
+      <pubDate>Tue, 27 Oct 2026 20:43:58 GMT</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>0.1.85</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Apple Mail layout: the sidebar and message list keep the widths you set, across relaunches and updates.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.85/RemedioMail-0.1.85.zip" type="application/octet-stream" sparkle:edSignature="bVxyllJIWqFKdDzh2f4Ms5iEucPQ3beixPrgRkf/iZivzz7xpgIe3b0FRYjEwFB/rGa/Kkz11OXLCEvnYEgUCQ==" length="22938685"/>
+    </item>
+    <item>
       <title>Version 0.1.84</title>
       <pubDate>Tue, 27 Oct 2026 20:21:01 GMT</pubDate>
       <sparkle:version>86</sparkle:version>
