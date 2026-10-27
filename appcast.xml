@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.62</title>
+      <pubDate>Tue, 27 Oct 2026 11:52:19 GMT</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>0.1.62</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Signatures: pasted pictures are kept even if you reopen a signature quickly, and an unsaved Gmail edit keeps its pictures' links when Gmail removes the signature.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.62/RemedioMail-0.1.62.zip" type="application/octet-stream" sparkle:edSignature="nXWRFP0L0go68uCsy63bH92wNdCoJbS1A4QiHmwnGxYqJnhSZOUZ4phYGE3bFMRSkvzyKetOQBeugsspFfz7Cg==" length="17414519"/>
+    </item>
+    <item>
       <title>Version 0.1.61</title>
       <pubDate>Tue, 27 Oct 2026 11:44:48 GMT</pubDate>
       <sparkle:version>62</sparkle:version>
