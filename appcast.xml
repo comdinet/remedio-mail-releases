@@ -3,6 +3,33 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.71</title>
+      <pubDate>Tue, 27 Oct 2026 14:53:47 GMT</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>0.1.71</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI assistants (MCP): Settings → AI Assistants lets Claude (and ChatGPT via OpenAI's tunnel) read mail, calendar, tasks and contacts and write drafts. It never sends or deletes. Off by default.</li><li>No divider line crosses the toolbar any more.</li><li>From, Signature, Online meeting, Font and the remote-images menu open as floating menus; suggestions stay on screen and replace the whole half-typed address. The font box shows System Font.</li><li>Compose: type any font size in the size box.</li><li>Company directory from Remedio IT, with groups (switched off until its server is live). HubSpot plugin (hidden until its sign-in is set up).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.71/RemedioMail-0.1.71.zip" type="application/octet-stream" sparkle:edSignature="18rl0uKZgRJVwv93+6FcbKB4VFgLAPluGKmdjZpWrx0eq9CNi8mfPzg5kVOo7cIz6DQrixta1ZApzoThSAobBg==" length="20492592"/>
+    </item>
+    <item>
+      <title>Version 0.1.70</title>
+      <pubDate>Tue, 27 Oct 2026 14:30:53 GMT</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>0.1.70</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI assistants (MCP): Settings → AI Assistants lets Claude (and ChatGPT via OpenAI's tunnel) read mail, calendar, tasks and contacts and write drafts. It never sends or deletes. Off by default.</li><li>From, Signature, Online meeting, Font and the remote-images menu open as floating menus in your theme; suggestions stay on screen and replace the whole half-typed address.</li><li>Compose: type any font size in the size box.</li><li>Company directory from Remedio IT, including groups (switched off until its server is live).</li><li>HubSpot plugin (hidden until its sign-in is set up).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.70/RemedioMail-0.1.70.zip" type="application/octet-stream" sparkle:edSignature="8DxedDKOSkDWrmlnF3ioPFmIfiBARSp0mtqUNaBebGmO7+p5/3wFpLzMni6gTKmwLNi6E8+A7wk2PKV9LgZZDQ==" length="20394368"/>
+    </item>
+    <item>
+      <title>Version 0.1.69</title>
+      <pubDate>Tue, 27 Oct 2026 14:19:18 GMT</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>0.1.69</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>From, Signature, Online meeting, Font and the remote-images menu open as floating menus in your theme; suggestions stay on screen and replace the whole half-typed address.</li><li>Compose: type any font size in the size box.</li><li>Company directory groups from Remedio IT (still switched off until its server is live).</li><li>HubSpot plugin (hidden until its sign-in is set up).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.69/RemedioMail-0.1.69.zip" type="application/octet-stream" sparkle:edSignature="FN3d6mLQrzEVUJ8Z2GDP5rbU6qVjsYbli92dSFOLRPMWw3izg8E1qsOgW4/exaAc/FKPPIjunmHgqK2A/3uNDg==" length="18718501"/>
+    </item>
+    <item>
       <title>Version 0.1.68</title>
       <pubDate>Tue, 27 Oct 2026 13:54:01 GMT</pubDate>
       <sparkle:version>69</sparkle:version>
