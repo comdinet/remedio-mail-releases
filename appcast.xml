@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.49</title>
+      <pubDate>Tue, 27 Oct 2026 09:24:08 GMT</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gmail signatures: Save to Gmail never overwrites a newer Gmail version or drops pictures that didn't download; you get a warning instead.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.49/RemedioMail-0.1.49.zip" type="application/octet-stream" sparkle:edSignature="rHzAgQufs/OHIgBJXuSBTbHqMBfPp74rebqqtFItkArKkPf6u1xONS/b9RBVt9XolZQfG8RR1J8HnJ3wHg2rCw==" length="17143136"/>
+    </item>
+    <item>
       <title>Version 0.1.48</title>
       <pubDate>Tue, 27 Oct 2026 09:17:03 GMT</pubDate>
       <sparkle:version>49</sparkle:version>
