@@ -3,6 +3,24 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.76</title>
+      <pubDate>Tue, 27 Oct 2026 15:59:47 GMT</pubDate>
+      <sparkle:version>78</sparkle:version>
+      <sparkle:shortVersionString>0.1.76</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Snooze: hide a message until later; it comes back to the top of the Inbox, unread, with a notification. Snoozed mailbox in the sidebar.</li><li>Templates: insert, save and manage your own templates with {FirstName} and other placeholders (Settings → Templates).</li><li>Fixes: Print stops instead of making an incomplete PDF; Gmail filter sizes stay exact and a failed apply no longer saves twice; several rules on one message all apply; a saved search matches exactly what the search showed.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.76/RemedioMail-0.1.76.zip" type="application/octet-stream" sparkle:edSignature="eH/EKDL8fF8w9VptqgRP99dSykDSvA/uVjo+HfL7gelUvDwtKOugCd0L8CRjfvWz2mWsm9yaA4n+7y4rJQ6/Cg==" length="22733632"/>
+    </item>
+    <item>
+      <title>Version 0.1.75</title>
+      <pubDate>Tue, 27 Oct 2026 15:42:43 GMT</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>0.1.75</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Snooze: hide a message until later (Later Today, Tomorrow, This Weekend, Next Week or a date); it comes back to the top of the Inbox, unread, with a notification. Snoozed mailbox in the sidebar.</li><li>Templates: insert, save and manage your own templates, with {FirstName} and other placeholders (Settings → Templates).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.75/RemedioMail-0.1.75.zip" type="application/octet-stream" sparkle:edSignature="T1nWeDyMIcSvxXsGKZCrL+tjO/xQDdWokqa/Hx/HrIMB5U2yTH4sLREPcbLj4Zfm93CLciYPvzDWtg+dUwH7Dg==" length="22553484"/>
+    </item>
+    <item>
       <title>Version 0.1.74</title>
       <pubDate>Tue, 27 Oct 2026 15:35:46 GMT</pubDate>
       <sparkle:version>76</sparkle:version>
