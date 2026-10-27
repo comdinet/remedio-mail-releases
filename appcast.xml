@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.52</title>
+      <pubDate>Tue, 27 Oct 2026 09:41:37 GMT</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.1.52</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gmail signatures: a Gmail update that arrives while Settings → Signatures is still loading now shows up.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.52/RemedioMail-0.1.52.zip" type="application/octet-stream" sparkle:edSignature="l7dvfV6Z3HQj8cKOnouww9PCZ14wq4p4mK0YlZ3ELs3bbj4EkaKJ0yNSroI8aaA6Fv5oGfA0Twa1PaN0boGmDw==" length="17147839"/>
+    </item>
+    <item>
       <title>Version 0.1.51</title>
       <pubDate>Tue, 27 Oct 2026 09:35:55 GMT</pubDate>
       <sparkle:version>52</sparkle:version>
