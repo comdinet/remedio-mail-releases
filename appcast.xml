@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.82</title>
+      <pubDate>Tue, 27 Oct 2026 20:00:35 GMT</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>0.1.82</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Rules: Gmail filters load even when Gmail's answer has fields the app doesn't know; a missing permission offers Reconnect right there.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.82/RemedioMail-0.1.82.zip" type="application/octet-stream" sparkle:edSignature="qDHKZCBYoBLH/enoMxvWWBDn9TeHE3dISZmFDkKxs+ZfIu2q7gVe8sK6JdsaJ6TVvNl69kSvOgZlO1QnW0g3Aw==" length="22773025"/>
+    </item>
+    <item>
       <title>Version 0.1.81</title>
       <pubDate>Tue, 27 Oct 2026 17:53:52 GMT</pubDate>
       <sparkle:version>83</sparkle:version>
