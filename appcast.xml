@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.83</title>
+      <pubDate>Tue, 27 Oct 2026 20:11:23 GMT</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>0.1.83</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Settings: a new searchable sidebar window with panes grouped under Mail, This Mac and Integrations.</li><li>New settings: mark as read, what to show after delete or archive, ask before deleting, send-from account, Reply or Reply All for ⌘R, reply above or below the quote, new-mail banner, sound and Dock count, open at login, update checks.</li><li>Rules: a Gmail filter using options Remedio Mail doesn't support is read-only, so saving can't drop them.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.83/RemedioMail-0.1.83.zip" type="application/octet-stream" sparkle:edSignature="n1KPMO3Ou5lzsil6ssmRRQukJ/FOeRerCE1FNGLHeQOtdQru0b5iYs7Co4QSPi6bd9tbFCkK+4dNjx5usJJJAg==" length="22923282"/>
+    </item>
+    <item>
       <title>Version 0.1.82</title>
       <pubDate>Tue, 27 Oct 2026 20:00:35 GMT</pubDate>
       <sparkle:version>84</sparkle:version>
