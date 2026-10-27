@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.84</title>
+      <pubDate>Tue, 27 Oct 2026 20:21:01 GMT</pubDate>
+      <sparkle:version>86</sparkle:version>
+      <sparkle:shortVersionString>0.1.84</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Mark as read: the delay starts over when you come back to a message, nothing is marked read while Mail is hidden, and separate message windows follow the setting too.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.84/RemedioMail-0.1.84.zip" type="application/octet-stream" sparkle:edSignature="MhBwfU53mjDrBfBM76pWCYnOkiTcXKMdlDeFM3v5SqPuV6oogI6YF1FIoT1J8vPvQ70bcCrP0HWIyWhdWUceBw==" length="22932977"/>
+    </item>
+    <item>
       <title>Version 0.1.83</title>
       <pubDate>Tue, 27 Oct 2026 20:11:23 GMT</pubDate>
       <sparkle:version>85</sparkle:version>
