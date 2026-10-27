@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.94</title>
+      <pubDate>Tue, 27 Oct 2026 21:47:30 GMT</pubDate>
+      <sparkle:version>96</sparkle:version>
+      <sparkle:shortVersionString>0.1.94</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sender warnings: company alias domains count as internal when the directory shows them, so colleagues on them aren't marked External.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.94/RemedioMail-0.1.94.zip" type="application/octet-stream" sparkle:edSignature="Uftiock3ZzNN7bhAw84C3cHFVzR/6amJoipwrsPI6lDmATDjp10Smx0sfJbyVsVCwHf1b8B0OBiZwFSzkoyuCg==" length="24074561"/>
+    </item>
+    <item>
       <title>Version 0.1.93</title>
       <pubDate>Tue, 27 Oct 2026 21:40:22 GMT</pubDate>
       <sparkle:version>95</sparkle:version>
