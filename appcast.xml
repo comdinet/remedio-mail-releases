@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.77</title>
+      <pubDate>Tue, 27 Oct 2026 16:08:23 GMT</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>0.1.77</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gmail filter editor: after a failed apply, edits you make are saved instead of silently ignored.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.77/RemedioMail-0.1.77.zip" type="application/octet-stream" sparkle:edSignature="5IaKpho7IaErw+UOnaj6oTfZ5OP7eVoLR2cXHAEEf2e+W18HSOmRmwwQ0flhh6A9cOZIpJpaJRjnNpOwu8VBCQ==" length="22738704"/>
+    </item>
+    <item>
       <title>Version 0.1.76</title>
       <pubDate>Tue, 27 Oct 2026 15:59:47 GMT</pubDate>
       <sparkle:version>78</sparkle:version>
