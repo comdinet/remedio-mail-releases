@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.73</title>
+      <pubDate>Tue, 27 Oct 2026 15:24:46 GMT</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>0.1.73</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI assistants: a Gmail copy of a sent draft is always removed, even when you were offline at send time.</li><li>Queued actions on a message that no longer exists no longer block the rest.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.73/RemedioMail-0.1.73.zip" type="application/octet-stream" sparkle:edSignature="cBr2ceh3g/o2bMovzMZwhnXpimRkiKk0/+6EMOMV/lAIAN4M0cyquglhyzFwuu4ihm+Kl5Yf9LIdkBYyB09bDg==" length="20526725"/>
+    </item>
+    <item>
       <title>Version 0.1.72</title>
       <pubDate>Tue, 27 Oct 2026 15:04:55 GMT</pubDate>
       <sparkle:version>73</sparkle:version>
