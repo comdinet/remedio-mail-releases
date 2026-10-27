@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.72</title>
+      <pubDate>Tue, 27 Oct 2026 15:04:55 GMT</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>0.1.72</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixes a rare stall when a setting changed in the background.</li><li>AI assistants: cleanup after a successful send can no longer clash with an assistant editing the same draft.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.72/RemedioMail-0.1.72.zip" type="application/octet-stream" sparkle:edSignature="50mRCdhpwUnRMUvBuoGNfO9AWbxiBdWHEVlB2XlDqPUugCqYn34thl4w700Y4+Ybyk5mH1Tl7ls+igsWXr6BDA==" length="20510801"/>
+    </item>
+    <item>
       <title>Version 0.1.71</title>
       <pubDate>Tue, 27 Oct 2026 14:53:47 GMT</pubDate>
       <sparkle:version>72</sparkle:version>
