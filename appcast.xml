@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.89</title>
+      <pubDate>Tue, 27 Oct 2026 21:14:42 GMT</pubDate>
+      <sparkle:version>91</sparkle:version>
+      <sparkle:shortVersionString>0.1.89</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Labels: add or remove several Gmail labels at once (Label As, or L), create labels, colour them; coloured label chips in the list and reader. In the Outlook layout this is Categorize.</li><li>Scheduling: editing a meeting no longer hides other meetings that overlap it, and working hours stay right on daylight-saving days.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.89/RemedioMail-0.1.89.zip" type="application/octet-stream" sparkle:edSignature="6MysMDfyUV/aHRynldu244RPIBNvXBDHBujDkn1cPxIbZ2Q1mq8rcT+K3ULN1HNl4bJzTgpDmpevRYfi4VybDg==" length="24057690"/>
+    </item>
+    <item>
       <title>Version 0.1.88</title>
       <pubDate>Tue, 27 Oct 2026 21:07:34 GMT</pubDate>
       <sparkle:version>90</sparkle:version>
