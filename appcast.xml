@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.88</title>
+      <pubDate>Tue, 27 Oct 2026 21:07:34 GMT</pubDate>
+      <sparkle:version>90</sparkle:version>
+      <sparkle:shortVersionString>0.1.88</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sender warnings: mail from outside Remedio is marked, and look-alike or failed-authentication senders get a clear warning.</li><li>Keyboard: Gmail-style single-key shortcuts (j/k, e, #, r, g i…), customizable in Settings → Keyboard Shortcuts; press ? for the list.</li><li>New mail: labels created or renamed in Gmail show up within 5 minutes, and back-off is respected.</li><li>Apple Mail layout: list widths save on first drag and in right-to-left too.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.88/RemedioMail-0.1.88.zip" type="application/octet-stream" sparkle:edSignature="63wEXPF4pryxFE/hbYej7hSKCfxQ9m+vhmk8BXWkvwYHHCfLxgsMoGXUIeDh7AaMu22NwqDLlCaSBiHPsVnvDg==" length="23713587"/>
+    </item>
+    <item>
       <title>Version 0.1.87</title>
       <pubDate>Tue, 27 Oct 2026 20:59:44 GMT</pubDate>
       <sparkle:version>89</sparkle:version>
