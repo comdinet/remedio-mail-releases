@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.91</title>
+      <pubDate>Tue, 27 Oct 2026 21:28:11 GMT</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>0.1.91</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Labels: Gmail's own names (Trash, Spam, Inbox…) can't be created as labels, and ticks made while a new label is being created stay put.</li><li>Scheduling: all-day events count in your calendar's time zone, not the Mac's.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.91/RemedioMail-0.1.91.zip" type="application/octet-stream" sparkle:edSignature="6ucb0/jFse++GLZOkD9ix9B+xF6MnsWuSQqU5C8ThCn9LxhhupCX0KPbRx6FIarBHP8zBqIR856cPSMSmkMhDw==" length="24077971"/>
+    </item>
+    <item>
       <title>Version 0.1.90</title>
       <pubDate>Tue, 27 Oct 2026 21:21:43 GMT</pubDate>
       <sparkle:version>92</sparkle:version>
