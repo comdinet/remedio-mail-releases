@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.93</title>
+      <pubDate>Tue, 27 Oct 2026 21:40:22 GMT</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>0.1.93</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Labels: a newly created label is ticked only on messages it really went on.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.93/RemedioMail-0.1.93.zip" type="application/octet-stream" sparkle:edSignature="QUe5C3UFLueVtCiSePmn+ZdDQEhn5oA9O+BMyZuqXatxoTLhKHK5E7BmKwIsNOdgGthDU12fgW3rzOGobFcCBA==" length="24081398"/>
+    </item>
+    <item>
       <title>Version 0.1.92</title>
       <pubDate>Tue, 27 Oct 2026 21:34:09 GMT</pubDate>
       <sparkle:version>94</sparkle:version>
