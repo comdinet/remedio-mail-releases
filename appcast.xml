@@ -3,6 +3,24 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.57</title>
+      <pubDate>Tue, 27 Oct 2026 10:20:50 GMT</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>0.1.57</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Zoom meetings follow their event: one per event, renamed or moved with it, deleted with it (only meetings Remedio Mail created). One 'Online meeting' row (None, Zoom, Google Meet or Teams). New setting: Settings → Plugins → Zoom → Add a Zoom meeting to new events. Reconnect Zoom once after this update.</li><li>My Day's mini calendar marks only the day you picked.</li><li>The signature editor recovers the latest version if its page crashes.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.57/RemedioMail-0.1.57.zip" type="application/octet-stream" sparkle:edSignature="kdS38gtoMuj/3hyQQZapGU/X5Y955C5rdcqmZ6CdjOtEMEpbFgFaIyHs2dYk2LsmOiPWkdV0SlxrUB5YlchFAg==" length="17316715"/>
+    </item>
+    <item>
+      <title>Version 0.1.56</title>
+      <pubDate>Tue, 27 Oct 2026 10:09:37 GMT</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>0.1.56</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Zoom meetings follow their event: one per event, renamed or moved with it, deleted with it. One 'Online meeting' row (None, Zoom, Google Meet or Teams). New setting: Settings → Plugins → Zoom → Add a Zoom meeting to new events. Reconnect Zoom once after this update.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.56/RemedioMail-0.1.56.zip" type="application/octet-stream" sparkle:edSignature="ikdVxuq93IRo0riQwutvEY7/npVOLNYQmIhNKPsr9xzOfYJZ0keC0rm7QJpyCqSLdg0zjc7/qaCvIFm3PcZWCw==" length="17302185"/>
+    </item>
+    <item>
       <title>Version 0.1.55</title>
       <pubDate>Tue, 27 Oct 2026 10:02:11 GMT</pubDate>
       <sparkle:version>56</sparkle:version>
