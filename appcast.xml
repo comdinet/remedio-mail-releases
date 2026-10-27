@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.90</title>
+      <pubDate>Tue, 27 Oct 2026 21:21:43 GMT</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>0.1.90</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sender warnings: a stranger who mails you often no longer silences look-alike warnings (only people you've written to count), and disguised links can't hide behind the shown domain in their path.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.90/RemedioMail-0.1.90.zip" type="application/octet-stream" sparkle:edSignature="IS7n6dYlXg7Dh9bK6OUz1NaFOhzqu2rrDQVJfyuN4GRollBdHYvxOe2tBzehy6FjdKioVnP6IIg6RHDY1iDsAQ==" length="24058369"/>
+    </item>
+    <item>
       <title>Version 0.1.89</title>
       <pubDate>Tue, 27 Oct 2026 21:14:42 GMT</pubDate>
       <sparkle:version>91</sparkle:version>
