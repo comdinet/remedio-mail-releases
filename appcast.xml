@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.48</title>
+      <pubDate>Tue, 27 Oct 2026 09:17:03 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gmail signatures can be edited in Settings → Signatures and saved back to Gmail (reconnect your Google account once first).</li><li>More tests for drafts saved in Gmail.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.48/RemedioMail-0.1.48.zip" type="application/octet-stream" sparkle:edSignature="KjJTMiYD5wZ9edJaUuVd6clIaWrnMiKMBUVd8RvyeGg6teE4MoOb0yGs64LHYhPPyI2r82kC9Dm3oe0y8xXECQ==" length="17142159"/>
+    </item>
+    <item>
       <title>Version 0.1.47</title>
       <pubDate>Mon, 26 Oct 2026 23:10:45 GMT</pubDate>
       <sparkle:version>48</sparkle:version>
