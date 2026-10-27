@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.86</title>
+      <pubDate>Tue, 27 Oct 2026 20:52:59 GMT</pubDate>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>0.1.86</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New mail arrives within about 20 seconds, and right away when the Mac wakes, the network comes back or you switch to the app. Each check is one small request; the app backs off if Gmail asks it to slow down.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.86/RemedioMail-0.1.86.zip" type="application/octet-stream" sparkle:edSignature="V/1VuaYP3KFTSDpWWYU9SH0ZiA1qcWRAdn+Zxeqp+w/64Q9TK2FtjBL4Anz2Fr6wsOwFCLkcrmKTEG8YX3ZEBA==" length="22992079"/>
+    </item>
+    <item>
       <title>Version 0.1.85</title>
       <pubDate>Tue, 27 Oct 2026 20:43:58 GMT</pubDate>
       <sparkle:version>87</sparkle:version>
