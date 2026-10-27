@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.87</title>
+      <pubDate>Tue, 27 Oct 2026 20:59:44 GMT</pubDate>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>0.1.87</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: a Scheduling view in the event editor shows when attendees and rooms are free, with suggested times.</li><li>Admin: IT can set and lock settings, plugins, AI assistant access and allowed account domains through an MDM profile (docs/admin).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.87/RemedioMail-0.1.87.zip" type="application/octet-stream" sparkle:edSignature="m1suu3Hi7j9UWXLhHDL3M6UF1cLvJgnslByM/MOK8Y2+XVCIJ0SJZ3V/+YEWXBXATfcm5nkNe6RT5l01v9/5Cg==" length="23343753"/>
+    </item>
+    <item>
       <title>Version 0.1.86</title>
       <pubDate>Tue, 27 Oct 2026 20:52:59 GMT</pubDate>
       <sparkle:version>88</sparkle:version>
