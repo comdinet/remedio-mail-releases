@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.92</title>
+      <pubDate>Tue, 27 Oct 2026 21:34:09 GMT</pubDate>
+      <sparkle:version>94</sparkle:version>
+      <sparkle:shortVersionString>0.1.92</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sender warnings: disguised links through Google or Outlook redirects are checked against their real destination, and mail you send from a send-as alias counts as yours.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.92/RemedioMail-0.1.92.zip" type="application/octet-stream" sparkle:edSignature="mvDP36/KAoyKdKQpGOMG038IAPGbqQ41ZwlThqEO+GGn/z5mGP8JGlBoeuucjGY1jA3yn9CFDUwEQXjLvO3wDg==" length="24081057"/>
+    </item>
+    <item>
       <title>Version 0.1.91</title>
       <pubDate>Tue, 27 Oct 2026 21:28:11 GMT</pubDate>
       <sparkle:version>93</sparkle:version>
