@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.96</title>
+      <pubDate>Wed, 28 Oct 2026 10:30:14 GMT</pubDate>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>0.1.96</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The company directory from IT.remedio.io loads again (it failed with “sent an unexpected response”).</li><li>Clearer messages when IT.remedio.io refuses: not in the directory yet (ask IT), switched off, busy.</li><li>Company templates switched off at IT is no longer shown as an error.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.96/RemedioMail-0.1.96.zip" type="application/octet-stream" sparkle:edSignature="F+kdsvIhrA6ASnzvfXwf8ZdtAtw3+kRLZCMyS2lQuePRC9dEqZVPK94gOe6FoVUZnlYUVZBPLl2k6kyjiiX7CQ==" length="24085098"/>
+    </item>
+    <item>
       <title>Version 0.1.95</title>
       <pubDate>Wed, 28 Oct 2026 10:07:08 GMT</pubDate>
       <sparkle:version>97</sparkle:version>
