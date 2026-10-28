@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.122</title>
+      <pubDate>Wed, 28 Oct 2026 17:29:10 GMT</pubDate>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>0.1.122</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day's Flagged Emails and Tasks leave out flagged mail in Trash and Junk, like the sidebar count, and a just-unflagged message can't come back.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.122/RemedioMail-0.1.122.zip" type="application/octet-stream" sparkle:edSignature="isUZyWmuZjDUeunCJULz5tJTilEV0knPxCXUEU9r821Yj2aREmK3S19q8BYj5TtX3HSZG3BsIfvdH2tVbUi3BQ==" length="25513453"/>
+    </item>
+    <item>
       <title>Version 0.1.121</title>
       <pubDate>Wed, 28 Oct 2026 17:23:07 GMT</pubDate>
       <sparkle:version>123</sparkle:version>
