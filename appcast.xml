@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.99</title>
+      <pubDate>Wed, 28 Oct 2026 10:47:40 GMT</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>0.1.99</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A malformed answer from IT.remedio.io can no longer empty the Mac's copy of the company directory.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.99/RemedioMail-0.1.99.zip" type="application/octet-stream" sparkle:edSignature="7YquHqCjWzhIeODRwK1Pk1LHEohcNh+0RxwNgL+Srf9mXTn2uoo4fS2Iu2VeLbbRzcBRIsCyq4/RJ9/oCWQmBQ==" length="24114270"/>
+    </item>
+    <item>
       <title>Version 0.1.98</title>
       <pubDate>Wed, 28 Oct 2026 10:42:35 GMT</pubDate>
       <sparkle:version>100</sparkle:version>
