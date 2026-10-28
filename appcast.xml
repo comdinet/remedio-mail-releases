@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.126</title>
+      <pubDate>Wed, 28 Oct 2026 18:56:38 GMT</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>0.1.126</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Delete motion: after closing a full-size message, a later sync no longer plays the motion; departing rows stay put at the bottom of a long list.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.126/RemedioMail-0.1.126.zip" type="application/octet-stream" sparkle:edSignature="6jTaUdM/sRK1iw1eScfQf/GYtRe8S8eHUi3nc9Xk27w8Y8ibCfZOFWGQ8SI8paG1m02vXIg4V1ogQ2wKhYI4DQ==" length="25640133"/>
+    </item>
+    <item>
       <title>Version 0.1.125</title>
       <pubDate>Wed, 28 Oct 2026 18:35:24 GMT</pubDate>
       <sparkle:version>127</sparkle:version>
