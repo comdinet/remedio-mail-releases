@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.101</title>
+      <pubDate>Wed, 28 Oct 2026 12:40:03 GMT</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>0.1.101</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Deleting, archiving or moving a message is smooth now: the row folds away, the list glides up and the selection stays where it is (no more jump).</li><li>The list no longer redraws when the background check finds nothing new.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.101/RemedioMail-0.1.101.zip" type="application/octet-stream" sparkle:edSignature="vY6LsAMyOnMZB/FCVAFLGnHOePxdxV8mw5yeXpKmsym8cmtxcbGgXZ1J0OuqCP2gWfY2OEQLC4I+9GSCD2W6BA==" length="24258011"/>
+    </item>
+    <item>
       <title>Version 0.1.100</title>
       <pubDate>Wed, 28 Oct 2026 12:24:04 GMT</pubDate>
       <sparkle:version>102</sparkle:version>
