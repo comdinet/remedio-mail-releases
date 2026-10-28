@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.129</title>
+      <pubDate>Wed, 28 Oct 2026 22:18:31 GMT</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>0.1.129</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar saves: a save that may have reached Google always comes back as 'may not have been saved' (never 'wasn't saved'), even across an account reconnect, so Save Again can't duplicate it.</li><li>Reconnecting an account keeps its unsaved changes as notices; a save from a removed account can't reach the reconnected one.</li><li>Open in Calendar shows a hidden calendar and goes to the event's real date.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.129/RemedioMail-0.1.129.zip" type="application/octet-stream" sparkle:edSignature="k0JtPjpH8mLzC4Sh/mf8UuK13kNnU/LXFv2fqpHjILUzFFpWnLmf9UEPZK4NYShD8rYUtRT0Q4o5OThY3JRWAw==" length="25678466"/>
+    </item>
+    <item>
       <title>Version 0.1.128</title>
       <pubDate>Wed, 28 Oct 2026 21:57:45 GMT</pubDate>
       <sparkle:version>130</sparkle:version>
