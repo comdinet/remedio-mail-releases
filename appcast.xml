@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.125</title>
+      <pubDate>Wed, 28 Oct 2026 18:35:24 GMT</pubDate>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>0.1.125</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar saves survive a crash or quit: every change is kept until it lands. After a crash, a change that never started comes back as 'wasn't saved' (Save Again, Edit…); one that was mid-way comes back as 'may not have been saved' (Open in Calendar, Save Again, Discard). Nothing is deleted on a guess.</li><li>Quitting never hangs: it waits at most 20 seconds for saves in progress.</li><li>Removing and re-adding an account mid-save can't send the old save to the new account.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.125/RemedioMail-0.1.125.zip" type="application/octet-stream" sparkle:edSignature="vkezaR21uM23QPcom3ODKz79288blhPioCAOUaWGYYUE5NFieHUFHF4T7wAmnb5yzJpMOINqX7dQo3lYfdNGCw==" length="25640395"/>
+    </item>
+    <item>
       <title>Version 0.1.124</title>
       <pubDate>Wed, 28 Oct 2026 17:56:42 GMT</pubDate>
       <sparkle:version>126</sparkle:version>
