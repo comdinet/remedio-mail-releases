@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.110</title>
+      <pubDate>Wed, 28 Oct 2026 14:40:10 GMT</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>0.1.110</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Saving an event is instant: the editor closes at once and the event shows (dimmed) while Google and Zoom finish in the background.</li><li>If a save fails, a banner per event offers Retry or Edit… with what you typed; if only Zoom fails, the event is saved without the link and the banner says so.</li><li>Quitting waits for events still saving; anything that couldn't finish comes back as a notice at the next launch.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.110/RemedioMail-0.1.110.zip" type="application/octet-stream" sparkle:edSignature="Tzz83xTL2eXJnO7hdSD4KfV3n/OdKss23hXLqwDEJBlU5RbhEg2SDtPY9S+EPJ7QW4VR/jvwC/DcOAO0QURSDg==" length="24885372"/>
+    </item>
+    <item>
       <title>Version 0.1.109</title>
       <pubDate>Wed, 28 Oct 2026 14:33:45 GMT</pubDate>
       <sparkle:version>111</sparkle:version>
