@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.117</title>
+      <pubDate>Wed, 28 Oct 2026 16:51:23 GMT</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>0.1.117</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Saving events is hardened: quitting, a crash, a delete or an account removal in the middle of a save can't lose the event, duplicate it or leave a dead Zoom link.</li><li>Removing an account or turning a plugin off removes its tasks for good, also after a relaunch.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.117/RemedioMail-0.1.117.zip" type="application/octet-stream" sparkle:edSignature="3thDvToad51D0X1LUIsEFjU4RJH+TalqZj3GmMPdkFF1CEz7oIvELKIuJlrfQt1JrBdyU8uneCtgV++jP5oEAw==" length="25389247"/>
+    </item>
+    <item>
       <title>Version 0.1.116</title>
       <pubDate>Wed, 28 Oct 2026 16:44:26 GMT</pubDate>
       <sparkle:version>118</sparkle:version>
