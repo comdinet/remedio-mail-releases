@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.111</title>
+      <pubDate>Wed, 28 Oct 2026 14:47:56 GMT</pubDate>
+      <sparkle:version>113</sparkle:version>
+      <sparkle:shortVersionString>0.1.111</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Removing an account cancels its pending meeting banners at once.</li><li>My Day no longer shows a stale Google meeting when Google is down and your Mac calendar has the account.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.111/RemedioMail-0.1.111.zip" type="application/octet-stream" sparkle:edSignature="t19GcI34x0mIK9szjsHKuTAogPpwUlsfL9WbHTX1IHdKqIPu87XuE+je99r0OjAUNeA9nancy0FHi84W0NcCBw==" length="24900841"/>
+    </item>
+    <item>
       <title>Version 0.1.110</title>
       <pubDate>Wed, 28 Oct 2026 14:40:10 GMT</pubDate>
       <sparkle:version>112</sparkle:version>
