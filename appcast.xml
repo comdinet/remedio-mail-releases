@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.109</title>
+      <pubDate>Wed, 28 Oct 2026 14:33:45 GMT</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>0.1.109</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My Day: the red now-line runs through the meeting that's on now, at the right point, and moves with time.</li><li>My Day shows a new, changed or deleted event at once, without switching days.</li><li>Meeting reminders: a moved or cancelled meeting's reminder doesn't come back, no doubles when Google is down but your Mac calendar has the meeting, and a removed account's reminders go away.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.109/RemedioMail-0.1.109.zip" type="application/octet-stream" sparkle:edSignature="G7ruqLpqWSS5mN6xWefeMxSZWbcUoUqALUti+90hvWzC3GpYVmH5mD8Y/eZpzBY3X07m1jsWr/z3VVfcfjpUAw==" length="24650056"/>
+    </item>
+    <item>
       <title>Version 0.1.108</title>
       <pubDate>Wed, 28 Oct 2026 14:18:58 GMT</pubDate>
       <sparkle:version>110</sparkle:version>
