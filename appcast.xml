@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.108</title>
+      <pubDate>Wed, 28 Oct 2026 14:18:58 GMT</pubDate>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>0.1.108</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Meeting reminders stay put when a calendar can't be reached (also after reopening the app offline).</li><li>Changing Keep on screen or reminder sound applies right away, also to reminders already showing or scheduled.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.108/RemedioMail-0.1.108.zip" type="application/octet-stream" sparkle:edSignature="uDuR2FUJHOoWb+y0pv26gW3qXJTmM6TlwsDdrCjmDF70q4osj8jgF6HUWL3wAL5PI8G1ur31ir8dj1McVImcDA==" length="24543846"/>
+    </item>
+    <item>
       <title>Version 0.1.107</title>
       <pubDate>Wed, 28 Oct 2026 14:08:34 GMT</pubDate>
       <sparkle:version>109</sparkle:version>
