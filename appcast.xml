@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.103</title>
+      <pubDate>Wed, 28 Oct 2026 13:24:10 GMT</pubDate>
+      <sparkle:version>105</sparkle:version>
+      <sparkle:shortVersionString>0.1.103</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The My Day button stays at the toolbar's right end (above My Day when it's open) and follows the window as you stretch it.</li><li>Outlook layout: search sits in the middle of the title bar, and the My Day button is back above My Day, so you can close it where you expect.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.103/RemedioMail-0.1.103.zip" type="application/octet-stream" sparkle:edSignature="N1tzGVHzlWawkxW4bDSPEkbAti5NfQ19x9+Nv/LCyB6dDV6FnK3ApBkI3SgiOh8l8KagZWDYjGBKEAvOG9oKDw==" length="24301939"/>
+    </item>
+    <item>
       <title>Version 0.1.102</title>
       <pubDate>Wed, 28 Oct 2026 12:53:24 GMT</pubDate>
       <sparkle:version>104</sparkle:version>
