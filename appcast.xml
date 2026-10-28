@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.127</title>
+      <pubDate>Wed, 28 Oct 2026 19:56:31 GMT</pubDate>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>0.1.127</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Settings → AI Assistants: Export… saves the Claude extension for your organization owner to upload; a hint explains that in an organization-managed Claude you install Remedio Mail from Claude's own extensions list.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.127/RemedioMail-0.1.127.zip" type="application/octet-stream" sparkle:edSignature="FWAbiSo2Lg1WrKpTnZWmSyu/xvWMkcWUSR4MthxrTdeyFkz2C1FHJ5Fwu2bnSEvdDC2DLFJYV52cvfU14Y0GDg==" length="25647897"/>
+    </item>
+    <item>
       <title>Version 0.1.126</title>
       <pubDate>Wed, 28 Oct 2026 18:56:38 GMT</pubDate>
       <sparkle:version>128</sparkle:version>
