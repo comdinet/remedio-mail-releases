@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.106</title>
+      <pubDate>Wed, 28 Oct 2026 14:01:41 GMT</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>0.1.106</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI assistants see each contact's id, so they can report an instruction hidden in a contact.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.106/RemedioMail-0.1.106.zip" type="application/octet-stream" sparkle:edSignature="Japhmxc9UF+LPYq8UgE7uKmzAXfTkaiUIbRI2Hjj5iiM3K5Qh8OxPYVyAR2g0ugkBTeTsdlZsCT4RpfrFhqyAA==" length="24312110"/>
+    </item>
+    <item>
       <title>Version 0.1.105</title>
       <pubDate>Wed, 28 Oct 2026 13:56:31 GMT</pubDate>
       <sparkle:version>107</sparkle:version>
