@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.112</title>
+      <pubDate>Wed, 28 Oct 2026 14:56:47 GMT</pubDate>
+      <sparkle:version>114</sparkle:version>
+      <sparkle:shortVersionString>0.1.112</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A just-saved event stays visible while the calendar refreshes.</li><li>Quitting during the tidy-up after a save never offers a Retry that would duplicate the event.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.112/RemedioMail-0.1.112.zip" type="application/octet-stream" sparkle:edSignature="W97TCpBQnMZGK6Cr+tk3cemuoCSOb7a9VbUA26pwle9uqLamjKRS7VOOcL6X6SmHNnWa/qnmq6RqDt0bFASmCg==" length="24906097"/>
+    </item>
+    <item>
       <title>Version 0.1.111</title>
       <pubDate>Wed, 28 Oct 2026 14:47:56 GMT</pubDate>
       <sparkle:version>113</sparkle:version>
