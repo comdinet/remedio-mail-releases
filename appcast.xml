@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.128</title>
+      <pubDate>Wed, 28 Oct 2026 21:57:45 GMT</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>0.1.128</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>People: a person's details no longer show after their account or the company directory is removed.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.128/RemedioMail-0.1.128.zip" type="application/octet-stream" sparkle:edSignature="j1UpvBdcz5vLDKOwNZtSqJS9Yr41Yjo/NxaiZ2pBC+75Kt2jHyrVPQUfqNuXI9DkjUCGUiyGRf/4jz5lMxNgAQ==" length="25655812"/>
+    </item>
+    <item>
       <title>Version 0.1.127</title>
       <pubDate>Wed, 28 Oct 2026 19:56:31 GMT</pubDate>
       <sparkle:version>129</sparkle:version>
