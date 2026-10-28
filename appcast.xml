@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.115</title>
+      <pubDate>Wed, 28 Oct 2026 16:37:09 GMT</pubDate>
+      <sparkle:version>117</sparkle:version>
+      <sparkle:shortVersionString>0.1.115</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Removing an account is final for its meetings, reminders and banners: nothing running in the background can bring them back, also after a relaunch or re-adding the account.</li><li>Meeting banners keep their right times even after a long permission prompt.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.115/RemedioMail-0.1.115.zip" type="application/octet-stream" sparkle:edSignature="NO0X/Wqp4w8bW1ltNblnJBEnWZxX1JeCPGqwJkIcFSi43DsJG+RfxVnJMVf4hWjjKAxV1+TbeUTY+C9YHxdPCQ==" length="25095612"/>
+    </item>
+    <item>
       <title>Version 0.1.114</title>
       <pubDate>Wed, 28 Oct 2026 16:30:48 GMT</pubDate>
       <sparkle:version>116</sparkle:version>
