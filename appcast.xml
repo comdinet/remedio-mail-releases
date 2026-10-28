@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.107</title>
+      <pubDate>Wed, 28 Oct 2026 14:08:34 GMT</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>0.1.107</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Meeting reminders stay on screen until you dismiss them: a Remedio Mail reminders panel with Join, Snooze and Dismiss (it never takes over your typing).</li><li>Settings → General: notifications for new mail and meetings (Off, Banner or Persistent), how long reminders stay, sound, and how early meetings remind you.</li><li>HubSpot is back in Settings → Plugins, with Remedio's new HubSpot app.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.107/RemedioMail-0.1.107.zip" type="application/octet-stream" sparkle:edSignature="C9I7duIbGnvel1IGQ7kw0EaUQFHDCnHZ2I8CcHaS4OXVHfFz9W2zZeTNwxGjABbvFVUWGL/ICQmsM2Czqy2aCA==" length="24531647"/>
+    </item>
+    <item>
       <title>Version 0.1.106</title>
       <pubDate>Wed, 28 Oct 2026 14:01:41 GMT</pubDate>
       <sparkle:version>108</sparkle:version>
