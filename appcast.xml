@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.120</title>
+      <pubDate>Wed, 28 Oct 2026 17:16:42 GMT</pubDate>
+      <sparkle:version>122</sparkle:version>
+      <sparkle:shortVersionString>0.1.120</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Settings → Reading → When you delete a message: Fold and glide (default), Lift and settle, Slide out, or Simple. Reduce Motion makes every style instant.</li><li>Works for delete, archive, move, junk and snooze, one or several messages, in every layout; Drafts follow the style's timing.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.120/RemedioMail-0.1.120.zip" type="application/octet-stream" sparkle:edSignature="zMqWjV/ln1aJnk4V9fbAYrYc15c5hVH3Qf/zEmWZCFdnVd600RbhOTw/5FCtVsfZ1vsOMnBzMUw4PSOSzGjmBw==" length="25509166"/>
+    </item>
+    <item>
       <title>Version 0.1.119</title>
       <pubDate>Wed, 28 Oct 2026 17:05:38 GMT</pubDate>
       <sparkle:version>121</sparkle:version>
