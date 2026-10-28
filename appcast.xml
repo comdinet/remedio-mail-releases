@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.114</title>
+      <pubDate>Wed, 28 Oct 2026 16:30:48 GMT</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>0.1.114</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Settings → AI Assistants: Install in Claude (one click, Claude Desktop shows its own prompt) and Copy Command for Claude Code. Both ship inside the app; no more copying JSON.</li><li>Other assistants keep the JSON under 'Other assistants', pointing at the installed app.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.114/RemedioMail-0.1.114.zip" type="application/octet-stream" sparkle:edSignature="zPFrmUJVGNEt1ax6q8P8ZwAqLcwhrnNTfBN8DxtrPl8sBasI5YlWlojAPBhnWGOvXmZCYeWeZLVhBHt2wJtUAg==" length="25014891"/>
+    </item>
+    <item>
       <title>Version 0.1.113</title>
       <pubDate>Wed, 28 Oct 2026 15:03:44 GMT</pubDate>
       <sparkle:version>115</sparkle:version>
