@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.113</title>
+      <pubDate>Wed, 28 Oct 2026 15:03:44 GMT</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>0.1.113</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A removed account's meeting banners can't come back, even if a reminder refresh was running.</li><li>My Day keeps your saved Google meetings when both Google and your Mac calendar are offline.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.113/RemedioMail-0.1.113.zip" type="application/octet-stream" sparkle:edSignature="Q8x32E7NMjleRFWg1GPudinV+HSSJaueFx/9Z3rR8dRZ+oHKaEMR6T1Et0U3S2u6A+jkndZ3uHCb7KmgNVWjCQ==" length="24914625"/>
+    </item>
+    <item>
       <title>Version 0.1.112</title>
       <pubDate>Wed, 28 Oct 2026 14:56:47 GMT</pubDate>
       <sparkle:version>114</sparkle:version>
