@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.104</title>
+      <pubDate>Wed, 28 Oct 2026 13:49:24 GMT</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>0.1.104</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI assistants (MCP): mail is treated as data, never instructions. Text in a message that tries to instruct an AI is refused and shows as flagged in Settings → AI Assistants → Activity.</li><li>A remedio-mail plugin for Claude Code ships in the repo.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.104/RemedioMail-0.1.104.zip" type="application/octet-stream" sparkle:edSignature="4NPcWFhI71VMOuLX3uspWYsNT5VN0oJF7jvkFHIooIi8rmh3x3dxDN7ydJHDz8k+Q33ZdS/K0OYBxdiEPaTNAg==" length="24309032"/>
+    </item>
+    <item>
       <title>Version 0.1.103</title>
       <pubDate>Wed, 28 Oct 2026 13:24:10 GMT</pubDate>
       <sparkle:version>105</sparkle:version>
