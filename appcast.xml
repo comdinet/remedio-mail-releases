@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.116</title>
+      <pubDate>Wed, 28 Oct 2026 16:44:26 GMT</pubDate>
+      <sparkle:version>118</sparkle:version>
+      <sparkle:shortVersionString>0.1.116</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Drafts: delete a draft from the toolbar, menu, Delete key, # or swipe, one or several at once; the Gmail copy goes too.</li><li>Selecting a draft previews it (recipients, subject, body, attachments) with an Edit button; Return or double-click keeps writing it.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.116/RemedioMail-0.1.116.zip" type="application/octet-stream" sparkle:edSignature="NFr37kSYcN0v0tmf7u8YrTg/EcaWb2LYXuKwd+bcQkMaG2RREcVYFmqYYWuTLhttY/BBC8o/OBOL0oYBCqfECA==" length="25190295"/>
+    </item>
+    <item>
       <title>Version 0.1.115</title>
       <pubDate>Wed, 28 Oct 2026 16:37:09 GMT</pubDate>
       <sparkle:version>117</sparkle:version>
