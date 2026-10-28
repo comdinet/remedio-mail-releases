@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.95</title>
+      <pubDate>Wed, 28 Oct 2026 10:07:08 GMT</pubDate>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>0.1.95</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Settings → Accounts no longer goes blank with a Gmail account selected.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.95/RemedioMail-0.1.95.zip" type="application/octet-stream" sparkle:edSignature="FcWn81EmdB4E83/9OzSTPZcLFCIlSMTBrEpmvnoF5M+7Ca0ZKq1eAqiIGmTsLXL2SA363A2GgHEywumuaHYSBA==" length="24085079"/>
+    </item>
+    <item>
       <title>Version 0.1.94</title>
       <pubDate>Tue, 27 Oct 2026 21:47:30 GMT</pubDate>
       <sparkle:version>96</sparkle:version>
