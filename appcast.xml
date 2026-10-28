@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.124</title>
+      <pubDate>Wed, 28 Oct 2026 17:56:42 GMT</pubDate>
+      <sparkle:version>126</sparkle:version>
+      <sparkle:shortVersionString>0.1.124</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>After snoozing or moving many messages at once, a later sync no longer plays the delete motion or holds your click.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.124/RemedioMail-0.1.124.zip" type="application/octet-stream" sparkle:edSignature="wv1atek64zLKaA/RcWB777vh4tEuVPbA1NBlQQu+XJjcpOWJH6g2hYjcTuD8wUJEcyE4ASf3OixWjhP6h6RvAQ==" length="25521805"/>
+    </item>
+    <item>
       <title>Version 0.1.123</title>
       <pubDate>Wed, 28 Oct 2026 17:44:35 GMT</pubDate>
       <sparkle:version>125</sparkle:version>
