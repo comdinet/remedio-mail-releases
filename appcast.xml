@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.100</title>
+      <pubDate>Wed, 28 Oct 2026 12:24:04 GMT</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>0.1.100</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: add guests and rooms right from the Scheduling tab; remove someone from the grid with ×.</li><li>Deleting an event now asks first (Delete and Notify for your meetings with guests; this event or all future ones for repeating events).</li><li>Zoom meetings get the event's guest list, and it's kept up to date when guests change.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.100/RemedioMail-0.1.100.zip" type="application/octet-stream" sparkle:edSignature="a6fau4Yi9YLXJeU3SMgEHIre6x1nCnw1d7M1QxqTu2cfcoF9zPeNdSX1aUc9vTVKTLAa3NbGjmUHhoDzBhduDQ==" length="24215203"/>
+    </item>
+    <item>
       <title>Version 0.1.99</title>
       <pubDate>Wed, 28 Oct 2026 10:47:40 GMT</pubDate>
       <sparkle:version>101</sparkle:version>
