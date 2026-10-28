@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.121</title>
+      <pubDate>Wed, 28 Oct 2026 17:23:07 GMT</pubDate>
+      <sparkle:version>123</sparkle:version>
+      <sparkle:shortVersionString>0.1.121</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Flagged (Starred in the Gmail layout) shows how many flagged messages you have, in the sidebar and in the Flagged search folder.</li><li>Flagged mail in Trash or Junk is no longer listed or counted.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.121/RemedioMail-0.1.121.zip" type="application/octet-stream" sparkle:edSignature="DQOGayPh6enML1CU6m+qcT/tSk+gBME6Ik6Qjr0YGaqVAKDOgzGrmM2j7Lvd0Dsgep/KVjc3+9cjNje6oxh2Bg==" length="25521861"/>
+    </item>
+    <item>
       <title>Version 0.1.120</title>
       <pubDate>Wed, 28 Oct 2026 17:16:42 GMT</pubDate>
       <sparkle:version>122</sparkle:version>
