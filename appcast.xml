@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.130</title>
+      <pubDate>Thu, 29 Oct 2026 08:55:22 GMT</pubDate>
+      <sparkle:version>132</sparkle:version>
+      <sparkle:shortVersionString>0.1.130</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>People: a person's card no longer lists meetings or Join buttons.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.130/RemedioMail-0.1.130.zip" type="application/octet-stream" sparkle:edSignature="pIm27o+xi1GhCaGe2m6dSkKk66mu+RKx4l4pR627+sswm237hN7YX9PtQ4wzLNJh2HWU18OobORC0U0rcIUCBw==" length="25646379"/>
+    </item>
+    <item>
       <title>Version 0.1.129</title>
       <pubDate>Wed, 28 Oct 2026 22:18:31 GMT</pubDate>
       <sparkle:version>131</sparkle:version>
