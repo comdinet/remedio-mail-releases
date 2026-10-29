@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.131</title>
+      <pubDate>Thu, 29 Oct 2026 18:33:25 GMT</pubDate>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>0.1.131</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Compose: Paste and Match Style (⌥⇧⌘V) pastes without formatting, from the Edit menu, the body's right-click menu and every layout's toolbar.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.131/RemedioMail-0.1.131.zip" type="application/octet-stream" sparkle:edSignature="Q30Xm+mi8VjvK+VVvaFZkEMdLQEJiRCTQK9d76Kiq3vRldKa2bnOiwHCHvB033cbaUaKGNkKCQuXHeG6IN4HAg==" length="25654519"/>
+    </item>
+    <item>
       <title>Version 0.1.130</title>
       <pubDate>Thu, 29 Oct 2026 08:55:22 GMT</pubDate>
       <sparkle:version>132</sparkle:version>
