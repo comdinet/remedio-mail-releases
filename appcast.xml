@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.132</title>
+      <pubDate>Fri, 30 Oct 2026 21:35:27 GMT</pubDate>
+      <sparkle:version>135</sparkle:version>
+      <sparkle:shortVersionString>0.1.132</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Compose: the Add Online Meeting button (Zoom) shows again when Zoom is connected.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.132/RemedioMail-0.1.132.zip" type="application/octet-stream" sparkle:edSignature="rKl+Zj22ZDzBF4Yd0yFqblubsNTRjW5Y5BmmIaLCYXlBrEj0jhgMpbxJaoD4lb4EEwunPesQo5qIOv4iiq2ZDA==" length="25671937"/>
+    </item>
+    <item>
       <title>Version 0.1.131</title>
       <pubDate>Thu, 29 Oct 2026 18:33:25 GMT</pubDate>
       <sparkle:version>134</sparkle:version>
