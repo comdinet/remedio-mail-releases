@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.133</title>
+      <pubDate>Fri, 30 Oct 2026 21:49:24 GMT</pubDate>
+      <sparkle:version>136</sparkle:version>
+      <sparkle:shortVersionString>0.1.133</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Compose: the Add Online Meeting button is gone. Add Zoom to a meeting from the Calendar event editor instead.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.133/RemedioMail-0.1.133.zip" type="application/octet-stream" sparkle:edSignature="ykIgUY7yIdyVCum3uhNI8G3VwhOYzJdNzCv3ZhHiOAUG9fp9/GZvJlT6zAovwsIvBx2/GRFsSS5ML56sYTtVAA==" length="25701128"/>
+    </item>
+    <item>
       <title>Version 0.1.132</title>
       <pubDate>Fri, 30 Oct 2026 21:35:27 GMT</pubDate>
       <sparkle:version>135</sparkle:version>
