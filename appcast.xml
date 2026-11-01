@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.137</title>
+      <pubDate>Sun, 01 Nov 2026 10:50:53 GMT</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>0.1.137</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New layout: Folio (View → Layout → Folio, ⌃⌘4). A folio top bar with search in the middle, your account and a Compose button in the sidebar, Spaces for labels, a large Inbox title, and a calm reader with its own actions.</li><li>Works with every theme; pair it with Folio or Folio Dark for the full look.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.137/RemedioMail-0.1.137.zip" type="application/octet-stream" sparkle:edSignature="leXGPHVeYafmeYhNcjnQgmQadOvBD62hrADPbbXYzxCK4bVMsCOjxIB/s2YlDaSW2IzFJYKQ9TEFLc9pLrRcDg==" length="26101669"/>
+    </item>
+    <item>
       <title>Version 0.1.136</title>
       <pubDate>Sun, 01 Nov 2026 09:59:39 GMT</pubDate>
       <sparkle:version>139</sparkle:version>
