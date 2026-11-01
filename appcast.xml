@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.148</title>
+      <pubDate>Sun, 01 Nov 2026 21:05:58 GMT</pubDate>
+      <sparkle:version>151</sparkle:version>
+      <sparkle:shortVersionString>0.1.148</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Search: “Load more from Gmail” stays available even when another account's search fails.</li><li>Highlighting matches in long messages is much faster.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.148/RemedioMail-0.1.148.zip" type="application/octet-stream" sparkle:edSignature="EYaOjts7Aoz0puCBfTJ9iYNt+cmOiRwN6EnOiak9uOioSUWjB3rZE6RTKo4w13CCc1Li8Y7PUzIcif5q0x2OBA==" length="27039056"/>
+    </item>
+    <item>
       <title>Version 0.1.147</title>
       <pubDate>Sun, 01 Nov 2026 19:33:53 GMT</pubDate>
       <sparkle:version>150</sparkle:version>
