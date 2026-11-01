@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.142</title>
+      <pubDate>Sun, 01 Nov 2026 13:35:40 GMT</pubDate>
+      <sparkle:version>145</sparkle:version>
+      <sparkle:shortVersionString>0.1.142</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Outlook layout: hovering a message no longer hides the date or moves anything; the quick buttons appear on the subject line.</li><li>No row shifts when mail is read (Outlook, Gmail, Folio).</li><li>Apple Mail: the toolbar stays the same whether or not a message is selected, and the My Day button no longer folds away.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.142/RemedioMail-0.1.142.zip" type="application/octet-stream" sparkle:edSignature="yHQf4dZPnjceXMH71dhXSWyB4FTr8NWgwGumc17g9FBd5Na7mwmXrOCxACQVvXy/4yhvQzbH1CAGJBY5W1GGCw==" length="26253666"/>
+    </item>
+    <item>
       <title>Version 0.1.141</title>
       <pubDate>Sun, 01 Nov 2026 13:17:12 GMT</pubDate>
       <sparkle:version>144</sparkle:version>
