@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.140</title>
+      <pubDate>Sun, 01 Nov 2026 13:02:51 GMT</pubDate>
+      <sparkle:version>143</sparkle:version>
+      <sparkle:shortVersionString>0.1.140</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Tasks: a New Task button, New Task on right-click in a list, and Create Task on a message's right-click (it links back to the mail).</li><li>Pick a Date works, and the email and notes icons on a task open the email and the details.</li><li>Mark as important works for Reminders tasks; Google Tasks has no importance, so the star is hidden for Google tasks.</li><li>New tasks from My Day, All or Planned go to your Google list.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.140/RemedioMail-0.1.140.zip" type="application/octet-stream" sparkle:edSignature="VD2mI8HKrQcDnie1TIowyUKusA+juBb7+6YuRISe/iaTS0xWuOY1+l8TA+0iRzM6AXP5PWrmRHEwJQtaFv8RCA==" length="26217729"/>
+    </item>
+    <item>
       <title>Version 0.1.139</title>
       <pubDate>Sun, 01 Nov 2026 12:43:16 GMT</pubDate>
       <sparkle:version>142</sparkle:version>
