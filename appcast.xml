@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.135</title>
+      <pubDate>Sun, 01 Nov 2026 09:06:19 GMT</pubDate>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>0.1.135</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Folio: plain buttons (Snooze, Dismiss…) are quiet again instead of dark slabs, in every styled theme.</li><li>Folio: a softer message list with lighter unread senders, smaller dots and a softer selection.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.135/RemedioMail-0.1.135.zip" type="application/octet-stream" sparkle:edSignature="QZaQwOr8smZgEW+Ex5gh9mzdO9kVXKwx/G23S1jU3uk2NX0ZhR8uY8zqzLt10iPx8sQf1MhsCehIFRTvdkDKCA==" length="25713999"/>
+    </item>
+    <item>
       <title>Version 0.1.134</title>
       <pubDate>Sat, 31 Oct 2026 20:16:18 GMT</pubDate>
       <sparkle:version>137</sparkle:version>
