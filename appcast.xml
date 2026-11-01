@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.143</title>
+      <pubDate>Sun, 01 Nov 2026 14:59:52 GMT</pubDate>
+      <sparkle:version>146</sparkle:version>
+      <sparkle:shortVersionString>0.1.143</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Copy messages with ⌘C and paste them into a new mail with ⌘V: each one is attached as an email (.eml), like Forward as Attachment.</li><li>Drag a message onto a compose window to attach it; paste in Finder to save .eml files.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.143/RemedioMail-0.1.143.zip" type="application/octet-stream" sparkle:edSignature="bJRiZ2xtCt7VifZlu28xI8wxP87vD7/ZoKf7Du10zi0FBaolj7jkiKXL+3zUNztkTyAUmse47WNFkHltY4TUAA==" length="26351745"/>
+    </item>
+    <item>
       <title>Version 0.1.142</title>
       <pubDate>Sun, 01 Nov 2026 13:35:40 GMT</pubDate>
       <sparkle:version>145</sparkle:version>
