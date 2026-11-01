@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.145</title>
+      <pubDate>Sun, 01 Nov 2026 18:22:47 GMT</pubDate>
+      <sparkle:version>148</sparkle:version>
+      <sparkle:shortVersionString>0.1.145</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Standard Mac shortcuts: ⌘W closes the window, ⌥⌘W closes all, ⌘0 brings the main window back, ⇧⌘J Junk, ⇧⌘D Send, ⇧⌘A Attach, ⌥⌘0 My Day, ⌥⌘1–3 reading pane.</li><li>Shortcuts in a message window act on that message, not on the list behind it.</li><li>Calendar's Day/Work Week/Week/Month (⌃⌘1–4) no longer clash with Layout.</li><li>Signature changes made while the Mac is locked are no longer lost.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.145/RemedioMail-0.1.145.zip" type="application/octet-stream" sparkle:edSignature="g70ps+0LzmD5UqNrE6l/vCCLyh+Sz29n4nE4Sj0hIZQUCuksefaYHVCelxI4p0SyQt+AcDEk49IymoUjC2uFCg==" length="26416224"/>
+    </item>
+    <item>
       <title>Version 0.1.144</title>
       <pubDate>Sun, 01 Nov 2026 17:46:30 GMT</pubDate>
       <sparkle:version>147</sparkle:version>
