@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.139</title>
+      <pubDate>Sun, 01 Nov 2026 12:43:16 GMT</pubDate>
+      <sparkle:version>142</sparkle:version>
+      <sparkle:shortVersionString>0.1.139</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Folio: searching from Calendar or Tasks always shows the mail results, even when Drafts, Outbox or Scheduled was open.</li><li>Delete animations stay smooth when rows have label chips.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.139/RemedioMail-0.1.139.zip" type="application/octet-stream" sparkle:edSignature="aJAPZsxXjpsFKfDXh4Qc6G12TIq0VOyYUn86brahxws5kxcBY/QSZRVoOC+fFLwfANkEG3sU7WBwCpI01G4OBQ==" length="26161913"/>
+    </item>
+    <item>
       <title>Version 0.1.138</title>
       <pubDate>Sun, 01 Nov 2026 12:17:02 GMT</pubDate>
       <sparkle:version>141</sparkle:version>
