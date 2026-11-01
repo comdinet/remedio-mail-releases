@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.136</title>
+      <pubDate>Sun, 01 Nov 2026 09:59:39 GMT</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>0.1.136</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Folio follows its design spec exactly: stone sidebar, paper list with hairlines, an olive bar on the selected row, a large reader title and soft notice banners.</li><li>Folio Dark gets the same.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.136/RemedioMail-0.1.136.zip" type="application/octet-stream" sparkle:edSignature="RIr7AZRCpT7eQRxUgLahewZcfz7ID4ds09Sm8O6lDMR6iTX9DT1nSlWPe29cnOGHhQdGfYUPFPResh43Fkh2DA==" length="25784614"/>
+    </item>
+    <item>
       <title>Version 0.1.135</title>
       <pubDate>Sun, 01 Nov 2026 09:06:19 GMT</pubDate>
       <sparkle:version>138</sparkle:version>
