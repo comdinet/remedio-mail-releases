@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.147</title>
+      <pubDate>Sun, 01 Nov 2026 19:33:53 GMT</pubDate>
+      <sparkle:version>150</sparkle:version>
+      <sparkle:shortVersionString>0.1.147</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Search asks Gmail too, so it finds mail that isn't on this Mac yet, plus bcc:, list:, category: and more.</li><li>A results bar in every layout: scope (all mailboxes, this list, an account), your search as chips, Unread / Flagged / Attachments / Date / Spam &amp; Trash filters, and a full search options form.</li><li>Suggestions for people, labels and recent searches; matched words are highlighted, Hebrew included.</li><li>⌘F finds text in the open message; / or ⌥⌘F jumps to search; Esc clears it.</li><li>Saved searches ask Gmail too.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.147/RemedioMail-0.1.147.zip" type="application/octet-stream" sparkle:edSignature="l10M6bAZ1yvE0Ned6CW2hTN5uj72rhncSAAR/Dmv9VHBypghW1RJJzxsB9bjzIuP9YfiEvtzocZEkoS4na7YBg==" length="27022879"/>
+    </item>
+    <item>
       <title>Version 0.1.146</title>
       <pubDate>Sun, 01 Nov 2026 18:35:06 GMT</pubDate>
       <sparkle:version>149</sparkle:version>
