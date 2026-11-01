@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.141</title>
+      <pubDate>Sun, 01 Nov 2026 13:17:12 GMT</pubDate>
+      <sparkle:version>144</sparkle:version>
+      <sparkle:shortVersionString>0.1.141</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Search: from: and to: work with a space after the colon, a partial address, a name or a domain (from: mor, from: remedio.io). The list says Search Results while you search.</li><li>Folio: the search field is one flat shape, and no top bar control has a second outline.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.141/RemedioMail-0.1.141.zip" type="application/octet-stream" sparkle:edSignature="7JHsp4AmoTJ8CYksVOn6C+9UnjgIK8ol1BdfSS26q5KQ+gP441T/YWG4oM0yRbTaryg2WamKf+mHKglmReDTBA==" length="26230965"/>
+    </item>
+    <item>
       <title>Version 0.1.140</title>
       <pubDate>Sun, 01 Nov 2026 13:02:51 GMT</pubDate>
       <sparkle:version>143</sparkle:version>
