@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.138</title>
+      <pubDate>Sun, 01 Nov 2026 12:17:02 GMT</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.1.138</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Folio layout: one top bar in every module (Search anything, no wordmark, the sidebar button stays put), and rows, sidebar and reader measured from the Folio design.</li><li>The External pill is red with black text in every theme (softer red in soft themes).</li><li>Flag in Folio's reader works with follow-ups and tasks; a quick second click no longer makes a duplicate task.</li><li>README lists the four layouts.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.138/RemedioMail-0.1.138.zip" type="application/octet-stream" sparkle:edSignature="/ABbMxGid1c8tGHE1k7pxQowFImbTfQjhc2n0omgs1pbwCcp/IJRIca/na72Uteh/7EIglrQXH5pdBS2GE1KAw==" length="26157249"/>
+    </item>
+    <item>
       <title>Version 0.1.137</title>
       <pubDate>Sun, 01 Nov 2026 10:50:53 GMT</pubDate>
       <sparkle:version>140</sparkle:version>
