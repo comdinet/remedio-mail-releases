@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.146</title>
+      <pubDate>Sun, 01 Nov 2026 18:35:06 GMT</pubDate>
+      <sparkle:version>149</sparkle:version>
+      <sparkle:shortVersionString>0.1.146</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The AI assistants' activity log is saved while the Mac is locked; if it ever can't be saved, Settings → AI Assistants says so.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.146/RemedioMail-0.1.146.zip" type="application/octet-stream" sparkle:edSignature="TcqgMVGd3HTTAbsbDUIV54y/tX7majStTFoxjpjyYr/uBWqpjImiyQBvJOvOmTv0aSpZTK547WrBbfiqAOKEDQ==" length="26425214"/>
+    </item>
+    <item>
       <title>Version 0.1.145</title>
       <pubDate>Sun, 01 Nov 2026 18:22:47 GMT</pubDate>
       <sparkle:version>148</sparkle:version>
