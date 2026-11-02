@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.158</title>
+      <pubDate>Mon, 02 Nov 2026 13:36:42 GMT</pubDate>
+      <sparkle:version>161</sparkle:version>
+      <sparkle:shortVersionString>0.1.158</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: right-click a calendar to change its colour (Apple's 7 colours, a custom colour, or back to the original). Google calendars save the colour to Google; it shows at once in the sidebar, grid and My Day.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.158/RemedioMail-0.1.158.zip" type="application/octet-stream" sparkle:edSignature="obK5YlNHmP702j056thH2HaB2aqowVVw0oJBBEOz8EC9JVeyWRVufo/Qd1w2HEXGTUKhOl9TUTeBHUsFJY14Ag==" length="28980242"/>
+    </item>
+    <item>
       <title>Version 0.1.157</title>
       <pubDate>Mon, 02 Nov 2026 10:51:47 GMT</pubDate>
       <sparkle:version>160</sparkle:version>
