@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.157</title>
+      <pubDate>Mon, 02 Nov 2026 10:51:47 GMT</pubDate>
+      <sparkle:version>160</sparkle:version>
+      <sparkle:shortVersionString>0.1.157</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Tasks: a + on each account in the sidebar (New List or New Task in that account).</li><li>Every layout edits a task right under it in the list; the Apple Mail layout now uses the Gmail look, and Outlook no longer opens details on the far side.</li><li>Fixes for offline copies, moved subtasks and deleting parent tasks.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.157/RemedioMail-0.1.157.zip" type="application/octet-stream" sparkle:edSignature="f3z++B31YQEkKbB111Owui7Y7N73rnnUANsSSNR8rJMkCkDBQiBvMIxCgyykU0yzAvspu8hPedUl2nO/GSehAg==" length="28893804"/>
+    </item>
+    <item>
       <title>Version 0.1.156</title>
       <pubDate>Mon, 02 Nov 2026 10:27:49 GMT</pubDate>
       <sparkle:version>159</sparkle:version>
