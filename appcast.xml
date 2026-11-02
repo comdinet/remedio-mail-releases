@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.167</title>
+      <pubDate>Mon, 02 Nov 2026 18:48:01 GMT</pubDate>
+      <sparkle:version>170</sparkle:version>
+      <sparkle:shortVersionString>0.1.167</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: a dragged event stays under the pointer where you grabbed it, also across the squeezed off-hours.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.167/RemedioMail-0.1.167.zip" type="application/octet-stream" sparkle:edSignature="Zo3ZdZKoK0pOGOFIO6lgW9wIIk/2jYXoFAgWcxrmy2cWRxQ5fP8YymMJ3tqhufI3+9cYfeR5oq7GtgmiCbOGCg==" length="31013888"/>
+    </item>    <item>
       <title>Version 0.1.166</title>
       <pubDate>Mon, 02 Nov 2026 18:23:44 GMT</pubDate>
       <sparkle:version>169</sparkle:version>
