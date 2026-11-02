@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.149</title>
+      <pubDate>Mon, 02 Nov 2026 08:21:04 GMT</pubDate>
+      <sparkle:version>152</sparkle:version>
+      <sparkle:shortVersionString>0.1.149</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Reliability work behind the scenes: tests no longer fail at random under load.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.149/RemedioMail-0.1.149.zip" type="application/octet-stream" sparkle:edSignature="um17Hm/YcDDCP9yce5JvwGHC46JFxF9Pmx2O+dZtJungOKpTFuOnOSz5RuXb4iPJ++ol9rPFGR14X4ophzdDDA==" length="27045988"/>
+    </item>
+    <item>
       <title>Version 0.1.148</title>
       <pubDate>Sun, 01 Nov 2026 21:05:58 GMT</pubDate>
       <sparkle:version>151</sparkle:version>
