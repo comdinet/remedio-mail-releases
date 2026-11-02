@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.163</title>
+      <pubDate>Mon, 02 Nov 2026 16:24:11 GMT</pubDate>
+      <sparkle:version>166</sparkle:version>
+      <sparkle:shortVersionString>0.1.163</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The Four panels icon now fills the whole Dock tile.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.163/RemedioMail-0.1.163.zip" type="application/octet-stream" sparkle:edSignature="5hMHFbO93EnwuU66ikX9XPgYHlFrlIiQU3MlR3oPcxVlo/dOSjiMf7QNck9Ggju43Rs14N5FsQjt6UFh9aCODg==" length="29242949"/>
+    </item>
+    <item>
       <title>Version 0.1.162</title>
       <pubDate>Mon, 02 Nov 2026 15:36:37 GMT</pubDate>
       <sparkle:version>165</sparkle:version>
