@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.150</title>
+      <pubDate>Mon, 02 Nov 2026 08:39:32 GMT</pubDate>
+      <sparkle:version>153</sparkle:version>
+      <sparkle:shortVersionString>0.1.150</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Answer meeting invites from the email: a card above the message shows the meeting, your answer and Yes / Maybe / No (with an optional note), clashes with your calendar and what changed. Opening an invite.ics shows the same card instead of the Mac's Calendar.</li><li>Cancellations show Cancelled with Remove from Calendar; new invites offer Add to Calendar.</li><li>Right-click an event: Open, Edit, Join, Going?, Email Guests, Copy Link or Details, Duplicate, Move to Calendar, Colour, Delete or Remove.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.150/RemedioMail-0.1.150.zip" type="application/octet-stream" sparkle:edSignature="DM/lcMnZMAgAZd5sHrpi00wua42g5ZFggJPqbd4lpTBnFE0rOqAaWRyv3lAyIvq0FSh+nKOb73Ytp/uYXpfgAA==" length="27710045"/>
+    </item>
+    <item>
       <title>Version 0.1.149</title>
       <pubDate>Mon, 02 Nov 2026 08:21:04 GMT</pubDate>
       <sparkle:version>152</sparkle:version>
