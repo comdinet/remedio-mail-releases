@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.170</title>
+      <pubDate>Mon, 02 Nov 2026 20:53:13 GMT</pubDate>
+      <sparkle:version>173</sparkle:version>
+      <sparkle:shortVersionString>0.1.170</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI assistants: only Remedio's signed helper can connect, and each assistant is paired with the program that really launched it (shown as Started by …). Each assistant asks for your permission once more after this update.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.170/RemedioMail-0.1.170.zip" type="application/octet-stream" sparkle:edSignature="MEZJWl0llwrsRF8ITHR4pVE6j9emIk6B1nRBkil0LIaCK3PGJafOXMAtJcKZIJrfCp/kVQW/jpRcFe77ngBDAQ==" length="31604083"/>
+    </item>    <item>
       <title>Version 0.1.169</title>
       <pubDate>Mon, 02 Nov 2026 20:34:42 GMT</pubDate>
       <sparkle:version>172</sparkle:version>
