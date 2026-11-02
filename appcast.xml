@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.153</title>
+      <pubDate>Mon, 02 Nov 2026 09:29:01 GMT</pubDate>
+      <sparkle:version>156</sparkle:version>
+      <sparkle:shortVersionString>0.1.153</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Tasks rebuilt: a layout for each window layout (Reminders-style in Apple Mail, To Do-style in Outlook, Google Tasks-style in Gmail, Things-style in Folio).</li><li>Edits are instant and reach Google in the background, even across a quit; no raw links in Google's notes.</li><li>New, rename and delete lists; subtasks; Completed view; search; Undo.</li><li>Star Google tasks (kept on this Mac, with a one-time note).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.153/RemedioMail-0.1.153.zip" type="application/octet-stream" sparkle:edSignature="rHlXlQBNCq+gWaKaYGFcG//7Nn6kuGEPzHXzCLTdrMXfMOzSeTLgjNKdVOXmC24ppFgiwb366NYAG4f00zrMBQ==" length="28788796"/>
+    </item>
+    <item>
       <title>Version 0.1.152</title>
       <pubDate>Mon, 02 Nov 2026 09:09:44 GMT</pubDate>
       <sparkle:version>155</sparkle:version>
