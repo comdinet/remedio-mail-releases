@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.171</title>
+      <pubDate>Mon, 02 Nov 2026 21:38:39 GMT</pubDate>
+      <sparkle:version>174</sparkle:version>
+      <sparkle:shortVersionString>0.1.171</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>AI assistants: a recipient an assistant adds who isn't already in the conversation is flagged in Compose (Added by …), and Send stays off until you confirm each one. Flagged drafts aren't saved to Gmail until confirmed.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.171/RemedioMail-0.1.171.zip" type="application/octet-stream" sparkle:edSignature="JpVmM5QCEGT+lqjwE7DsQ4B1FoRJNScYfQHUEvc7J2WxfS61GBHd1q42H80UahQ3AP6dxwUNZXHKcQVb/x9NAQ==" length="31701820"/>
+    </item>    <item>
       <title>Version 0.1.170</title>
       <pubDate>Mon, 02 Nov 2026 20:53:13 GMT</pubDate>
       <sparkle:version>173</sparkle:version>
