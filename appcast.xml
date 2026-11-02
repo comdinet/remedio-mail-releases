@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.159</title>
+      <pubDate>Mon, 02 Nov 2026 13:52:31 GMT</pubDate>
+      <sparkle:version>162</sparkle:version>
+      <sparkle:shortVersionString>0.1.159</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: event text stays readable on any calendar colour, including white and yellow, in the Gmail layout.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.159/RemedioMail-0.1.159.zip" type="application/octet-stream" sparkle:edSignature="/eVRXxvUz2TT5pKtLNdDp+fY6c/qFbGgXcjljqT1ECz22SkE+9zns4T/YcTRfkp0pxngQ9idEWtgyM2Nw03IDw==" length="28981131"/>
+    </item>
+    <item>
       <title>Version 0.1.158</title>
       <pubDate>Mon, 02 Nov 2026 13:36:42 GMT</pubDate>
       <sparkle:version>161</sparkle:version>
