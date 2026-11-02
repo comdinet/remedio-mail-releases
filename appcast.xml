@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.155</title>
+      <pubDate>Mon, 02 Nov 2026 10:13:39 GMT</pubDate>
+      <sparkle:version>158</sparkle:version>
+      <sparkle:shortVersionString>0.1.155</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Change any menu shortcut in Settings → Keyboard Shortcuts → Menu Shortcuts: record a new key, swap when it's taken, reset one or all. Tooltips show your keys.</li><li>New setting: Esc in a new message can close it (Windows style), keeping it in Drafts.</li><li>A new message with only a picture is no longer thrown away by ⌘W.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.155/RemedioMail-0.1.155.zip" type="application/octet-stream" sparkle:edSignature="JOW5uPMf0JZuREHC2De76WoJqg4Uw0UzJRysg4e4u2h8RM6F3hUKZYOzAvQw5xXCuvtqBsrTvJQlnD5lGKL/AQ==" length="29010662"/>
+    </item>
+    <item>
       <title>Version 0.1.154</title>
       <pubDate>Mon, 02 Nov 2026 10:00:01 GMT</pubDate>
       <sparkle:version>157</sparkle:version>
