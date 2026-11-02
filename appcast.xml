@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.165</title>
+      <pubDate>Mon, 02 Nov 2026 17:40:50 GMT</pubDate>
+      <sparkle:version>168</sparkle:version>
+      <sparkle:shortVersionString>0.1.165</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Desk mode (off by default; turn it on in Settings): one page with Triage, mail you owe and are owed, your next meeting, tasks and plugin sections. Make a task, Later and Done each with Undo.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.165/RemedioMail-0.1.165.zip" type="application/octet-stream" sparkle:edSignature="HmVyCezsxZoNpwhFPbKNxoTTfad8CBMN9ogO5gsFa9K74fHv9qPEHIMgDBNjdW4r4XrrK/Taxv0QDqflaoZ3AA==" length="30916446"/>
+    </item>    <item>
       <title>Version 0.1.164</title>
       <pubDate>Mon, 02 Nov 2026 16:38:53 GMT</pubDate>
       <sparkle:version>167</sparkle:version>
