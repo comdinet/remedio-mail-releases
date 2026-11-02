@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.154</title>
+      <pubDate>Mon, 02 Nov 2026 10:00:01 GMT</pubDate>
+      <sparkle:version>157</sparkle:version>
+      <sparkle:shortVersionString>0.1.154</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Link check: a link whose text is drawn by the email's styling now asks before opening an outside site, so a fake address split across styled text can't slip through.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.154/RemedioMail-0.1.154.zip" type="application/octet-stream" sparkle:edSignature="FEsXcHggk89Z/aljudAY1vwbOfVwktW0hXNO9nGLnrQQxKIDyj6Z2BoKjoDg6hiBv36/GJx7SKrCLfHaoBrrAw==" length="28789022"/>
+    </item>
+    <item>
       <title>Version 0.1.153</title>
       <pubDate>Mon, 02 Nov 2026 09:29:01 GMT</pubDate>
       <sparkle:version>156</sparkle:version>
