@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.151</title>
+      <pubDate>Mon, 02 Nov 2026 09:00:38 GMT</pubDate>
+      <sparkle:version>154</sparkle:version>
+      <sparkle:shortVersionString>0.1.151</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Invites: the clash check only looks at a sensible window around the meeting, so a malformed invite can't make the app read years of your calendar.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.151/RemedioMail-0.1.151.zip" type="application/octet-stream" sparkle:edSignature="56GvanuLHvbO1/hFiNxkc5WJvquX5Y8vurr/1mcfybAD4DpsqLyZJnPosb9wrsezHISqSvUDImIydNKQTPhhDQ==" length="27710452"/>
+    </item>
+    <item>
       <title>Version 0.1.150</title>
       <pubDate>Mon, 02 Nov 2026 08:39:32 GMT</pubDate>
       <sparkle:version>153</sparkle:version>
