@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.156</title>
+      <pubDate>Mon, 02 Nov 2026 10:27:49 GMT</pubDate>
+      <sparkle:version>159</sparkle:version>
+      <sparkle:shortVersionString>0.1.156</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>With Esc set to close a new message, Send now waits until the Esc save finishes, so a message never goes out without your last edits.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.156/RemedioMail-0.1.156.zip" type="application/octet-stream" sparkle:edSignature="g9/DLbZj/8ko8j58Obr6RmcoWsowuDOKmEwsS44DoprQtXAQFG2r9B+4+eJovaNOPkPioHjzbl0VzN3p6EVhBw==" length="29012044"/>
+    </item>
+    <item>
       <title>Version 0.1.155</title>
       <pubDate>Mon, 02 Nov 2026 10:13:39 GMT</pubDate>
       <sparkle:version>158</sparkle:version>
