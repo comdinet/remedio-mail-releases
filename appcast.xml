@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.172</title>
+      <pubDate>Tue, 03 Nov 2026 08:57:49 GMT</pubDate>
+      <sparkle:version>175</sparkle:version>
+      <sparkle:shortVersionString>0.1.172</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Shortcuts: Send (and other commands while writing) can take ⌘↩ in Settings → Shortcuts.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.172/RemedioMail-0.1.172.zip" type="application/octet-stream" sparkle:edSignature="kkUbN2Gdum4djZqt+H+UY2PP5X1RGF1pnxkq9IgLYee61PvdPzoGK/xc+764GXDlajzNapQPwX/AKXOfQDyqDQ==" length="31701747"/>
+    </item>    <item>
       <title>Version 0.1.171</title>
       <pubDate>Mon, 02 Nov 2026 21:38:39 GMT</pubDate>
       <sparkle:version>174</sparkle:version>
