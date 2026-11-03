@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.175</title>
+      <pubDate>Tue, 03 Nov 2026 16:49:51 GMT</pubDate>
+      <sparkle:version>178</sparkle:version>
+      <sparkle:shortVersionString>0.1.175</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Deleting a message (or archiving, moving) keeps the keyboard on the message list, so the next Delete or arrow key works without clicking, even if you had clicked into the message.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.175/RemedioMail-0.1.175.zip" type="application/octet-stream" sparkle:edSignature="vh0CXdzCkDecXBRvlCSbygSjlo+5Y6GqEp4wtWDkvvffG/818sJ5MWDGmXv2XiBRkimfWt11aITLff6kuD1oDA==" length="31845893"/>
+    </item>    <item>
       <title>Version 0.1.174</title>
       <pubDate>Tue, 03 Nov 2026 16:30:31 GMT</pubDate>
       <sparkle:version>177</sparkle:version>
