@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.174</title>
+      <pubDate>Tue, 03 Nov 2026 16:30:31 GMT</pubDate>
+      <sparkle:version>177</sparkle:version>
+      <sparkle:shortVersionString>0.1.174</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Tasks: Today, Tomorrow and Next Week keep a reminder's time and its alert (sticky notes, right-click menu and the date chips).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.174/RemedioMail-0.1.174.zip" type="application/octet-stream" sparkle:edSignature="/h6rr1IJ9fyTIb7bvywA/Pyckdc2MthKzjufSE0tiEqV3NEXE09VDgi6RRdXPkZnZ04CIjn4HnLG/RAhlc91AQ==" length="31803341"/>
+    </item>    <item>
       <title>Version 0.1.173</title>
       <pubDate>Tue, 03 Nov 2026 16:20:31 GMT</pubDate>
       <sparkle:version>176</sparkle:version>
