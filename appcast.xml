@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.173</title>
+      <pubDate>Tue, 03 Nov 2026 16:20:31 GMT</pubDate>
+      <sparkle:version>176</sparkle:version>
+      <sparkle:shortVersionString>0.1.173</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Folio layout: Tasks show as sticky notes (overdue pink, important blue, the rest yellow); click a note to edit it beside the note.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.173/RemedioMail-0.1.173.zip" type="application/octet-stream" sparkle:edSignature="qSlTKFy8Th1od9S7czzrCM3rK/WjTqhqbsxnSWGIWbhw7DgW+94E+ZDiVBAXpB7boH0o/lLidfWlSBRXlh+6BA==" length="31805034"/>
+    </item>    <item>
       <title>Version 0.1.172</title>
       <pubDate>Tue, 03 Nov 2026 08:57:49 GMT</pubDate>
       <sparkle:version>175</sparkle:version>
