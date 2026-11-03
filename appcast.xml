@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.176</title>
+      <pubDate>Tue, 03 Nov 2026 18:01:46 GMT</pubDate>
+      <sparkle:version>179</sparkle:version>
+      <sparkle:shortVersionString>0.1.176</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The main window keeps its place and size after an update or relaunch.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.176/RemedioMail-0.1.176.zip" type="application/octet-stream" sparkle:edSignature="2bNPTXjEwaD2w0xmsFHVb3FNY33NBnyWNuq43NPPct7Rbu0NIhTs2T3dczX9t8EAEWVZ4Xu8ItvdhreLKNWUCA==" length="31847960"/>
+    </item>    <item>
       <title>Version 0.1.175</title>
       <pubDate>Tue, 03 Nov 2026 16:49:51 GMT</pubDate>
       <sparkle:version>178</sparkle:version>
