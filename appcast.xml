@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.179</title>
+      <pubDate>Wed, 04 Nov 2026 18:16:24 GMT</pubDate>
+      <sparkle:version>182</sparkle:version>
+      <sparkle:shortVersionString>0.1.179</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: Remove from List is offered only for calendars you can remove (not your own), and a removed calendar no longer comes back from the offline cache.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.179/RemedioMail-0.1.179.zip" type="application/octet-stream" sparkle:edSignature="lGw4oH0u5Pq9yO08/I4LDZln06v8oZJln5/IUHmmfw0TJebWwNJgucKgg6/xQOYC61oB6cyTAWgRbAqDpFxFCQ==" length="32041427"/>
+    </item>    <item>
       <title>Version 0.1.178</title>
       <pubDate>Wed, 04 Nov 2026 17:24:22 GMT</pubDate>
       <sparkle:version>181</sparkle:version>
