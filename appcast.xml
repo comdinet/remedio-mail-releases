@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.181</title>
+      <pubDate>Wed, 04 Nov 2026 18:49:55 GMT</pubDate>
+      <sparkle:version>184</sparkle:version>
+      <sparkle:shortVersionString>0.1.181</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calendar: an event saved to a calendar you just removed is no longer filed under your main calendar.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.181/RemedioMail-0.1.181.zip" type="application/octet-stream" sparkle:edSignature="HPKFD+DE1OIeP5/JGnKnnAFdt0uQ3xuqwI9OSqGWDSsVlPf/28AMoaEorlE7yQnLaVY72HZTBRmusX3hwWvGAA==" length="32042401"/>
+    </item>    <item>
       <title>Version 0.1.180</title>
       <pubDate>Wed, 04 Nov 2026 18:36:44 GMT</pubDate>
       <sparkle:version>183</sparkle:version>
