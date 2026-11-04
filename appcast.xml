@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.182</title>
+      <pubDate>Wed, 04 Nov 2026 19:09:30 GMT</pubDate>
+      <sparkle:version>185</sparkle:version>
+      <sparkle:shortVersionString>0.1.182</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Desk and Triage are removed.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.182/RemedioMail-0.1.182.zip" type="application/octet-stream" sparkle:edSignature="oKWKB4V8oDLoyKoiUo2H2cqTy5ABkmO/r8sWeKM56vHOWv++BXKICFrf0ybI2tpzMLzGwGoU4IsWzHk4B+A9Bw==" length="30434444"/>
+    </item>    <item>
       <title>Version 0.1.181</title>
       <pubDate>Wed, 04 Nov 2026 18:49:55 GMT</pubDate>
       <sparkle:version>184</sparkle:version>
