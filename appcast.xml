@@ -3,6 +3,14 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.177</title>
+      <pubDate>Wed, 04 Nov 2026 08:29:56 GMT</pubDate>
+      <sparkle:version>180</sparkle:version>
+      <sparkle:shortVersionString>0.1.177</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Folio layout: the Mail, Calendar, Tasks and People buttons sit at the leading edge of the top bar, next to the sidebar button.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.177/RemedioMail-0.1.177.zip" type="application/octet-stream" sparkle:edSignature="pzshgu7BhZOo9Rsx+wDQ61Y4h2XyZXXgU3+I29vQ0GKk0vpPIqKVaDM0uZV8h1drRJP+LgQ1Ggejmp88Q/mUCg==" length="31848002"/>
+    </item>    <item>
       <title>Version 0.1.176</title>
       <pubDate>Tue, 03 Nov 2026 18:01:46 GMT</pubDate>
       <sparkle:version>179</sparkle:version>
