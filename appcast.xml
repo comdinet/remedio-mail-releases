@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.185</title>
+      <pubDate>Thu, 05 Nov 2026 09:57:30 GMT</pubDate>
+      <sparkle:version>188</sparkle:version>
+      <sparkle:shortVersionString>0.1.185</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Adding an account no longer crashes when the sign-in window fails; sign-in carries on in your browser instead.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.185/RemedioMail-0.1.185.zip" type="application/octet-stream" sparkle:edSignature="X9xgOeq2j+rGTIwaR2ygCM2kVZdk9qvINWxsg7SP5JrdQNCYnD9J92B8TE4Ph2urT3H07aN0T/alYhcpkfAQCg==" length="12107650"/>
+    </item>    <item>
       <title>Version 0.1.184</title>
       <pubDate>Thu, 05 Nov 2026 09:43:05 GMT</pubDate>
       <sparkle:version>187</sparkle:version>
