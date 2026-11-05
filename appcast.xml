@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.188</title>
+      <pubDate>Thu, 05 Nov 2026 18:50:00 GMT</pubDate>
+      <sparkle:version>191</sparkle:version>
+      <sparkle:shortVersionString>0.1.188</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Two new layouts: Split Inbox (tabs of saved searches, and a Remedio / Personal workspace switch for mail) and Focus (one column, keyboard first, with a labelled key bar).</li><li>⌘K Commands and Search, in every layout.</li><li>Calendar: opening a weekend event from Work Week shows the week.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.188/RemedioMail-0.1.188.zip" type="application/octet-stream" sparkle:edSignature="xna1fkcfWKknwuNAhPtdJSUuYW+RdTYABtZ9typfdItQsSfT9w7/pAJ1fLO5SWLvQZk+BW3+bOqOq4F7G8TQDA==" length="12571386"/>
+    </item>    <item>
       <title>Version 0.1.187</title>
       <pubDate>Thu, 05 Nov 2026 16:38:25 GMT</pubDate>
       <sparkle:version>190</sparkle:version>
