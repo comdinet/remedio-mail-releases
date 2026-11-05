@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.184</title>
+      <pubDate>Thu, 05 Nov 2026 09:43:05 GMT</pubDate>
+      <sparkle:version>187</sparkle:version>
+      <sparkle:shortVersionString>0.1.184</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>AI assistants: a tool call never hangs; if Remedio Mail is closed, AI Assistants is off, or a helper is refused, the assistant gets a clear message at once.</li><li>Activity explains why a helper was turned away.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.184/RemedioMail-0.1.184.zip" type="application/octet-stream" sparkle:edSignature="bx9dyQ67xZAy7gqFXJHZvF7qUO8Ud3YSCqFlbc/CTnkmihG3GlAusEHFPgVodb2ph6mEErCM1sHd7Y4DDNgPCQ==" length="12107086"/>
+    </item>    <item>
       <title>Version 0.1.183</title>
       <pubDate>Wed, 04 Nov 2026 19:32:25 GMT</pubDate>
       <sparkle:version>186</sparkle:version>
