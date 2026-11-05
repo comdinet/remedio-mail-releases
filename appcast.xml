@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 0.1.189</title>
+      <pubDate>Thu, 05 Nov 2026 19:09:34 GMT</pubDate>
+      <sparkle:version>192</sparkle:version>
+      <sparkle:shortVersionString>0.1.189</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Calendar: Add Calendar from URL subscribes to an iCal or webcal feed. Subscriptions live in Remedio on this Mac and refresh on their own.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v0.1.189/RemedioMail-0.1.189.zip" type="application/octet-stream" sparkle:edSignature="uC74wPpxF8HevQZmNKpRg5Dw3IbiUctqVYpD1SZKOPMXnLCc7qqRYVZmC1LfjJW7W95YHPsUgdFIrh7uxqpTAw==" length="12853440"/>
+    </item>    <item>
       <title>Version 0.1.188</title>
       <pubDate>Thu, 05 Nov 2026 18:50:00 GMT</pubDate>
       <sparkle:version>191</sparkle:version>
