@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.7</title>
+      <pubDate>Sun, 08 Nov 2026 14:44:14 GMT</pubDate>
+      <sparkle:version>200</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Add Account → Other account gives you the sign-in link: Copy Link, or Open In any browser on your Mac (a private window where the browser allows it).</li><li>An account you already added is refused instead of added again, and an abandoned sign-in resets after 10 minutes.</li><li>AI assistants: stopping or restarting the assistant connection no longer cuts off another connection.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.7/RemedioMail-1.0.7.zip" type="application/octet-stream" sparkle:edSignature="B5jUEa08RyNsjKmGEXUfu19FAICf857k131DVy9vhYF8wlg9gt5clobUApZYq58Wrba7BOD21yDdP4JsVKh+Bw==" length="12892144"/>
+    </item>    <item>
       <title>Version 1.0.6</title>
       <pubDate>Sun, 08 Nov 2026 13:38:20 GMT</pubDate>
       <sparkle:version>199</sparkle:version>
