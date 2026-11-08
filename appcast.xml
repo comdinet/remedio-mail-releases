@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Sun, 08 Nov 2026 12:51:27 GMT</pubDate>
+      <sparkle:version>197</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Add Account → Other account opens Firefox with a fresh profile of its own, even where Firefox is managed. Without Firefox it uses Chrome in incognito with a throwaway profile.</li><li>Your layout and theme are kept on update (new rule for all future defaults).</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.4/RemedioMail-1.0.4.zip" type="application/octet-stream" sparkle:edSignature="85N2kjygmLKnO04YZJ5CaCN1RpU7B5JMejdzhxx9QGDjsmi4HNJkKu2CCg8RUFlOgKvExqL9jTKcDxeRTIE5BA==" length="12880757"/>
+    </item>    <item>
       <title>Version 1.0.3</title>
       <pubDate>Sun, 08 Nov 2026 12:22:04 GMT</pubDate>
       <sparkle:version>196</sparkle:version>
