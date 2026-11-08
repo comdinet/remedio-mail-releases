@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Sun, 08 Nov 2026 12:22:04 GMT</pubDate>
+      <sparkle:version>196</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Updating no longer switches an older install from Apple Mail and Standard to Folio and Clear: if you never picked a layout or theme, the one you had comes back and is kept.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.3/RemedioMail-1.0.3.zip" type="application/octet-stream" sparkle:edSignature="7UFaY3/F0Zrx+VcAfQ5kpvSsCpxP4Fa9nPaqc7z1fmbeu6hcuAnxGY/QR/PIQtOtl4eCVUyDANqhn6DOV7D9CQ==" length="12880714"/>
+    </item>    <item>
       <title>Version 1.0.2</title>
       <pubDate>Sun, 08 Nov 2026 11:34:13 GMT</pubDate>
       <sparkle:version>195</sparkle:version>
