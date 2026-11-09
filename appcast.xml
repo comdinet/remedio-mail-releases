@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.8</title>
+      <pubDate>Mon, 09 Nov 2026 09:16:41 GMT</pubDate>
+      <sparkle:version>201</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>A &quot;Sync failed … offline&quot; banner now clears by itself once that account syncs again.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.8/RemedioMail-1.0.8.zip" type="application/octet-stream" sparkle:edSignature="0i1Pd+PJ8ml809ArPpW9h1MZ1POO0zbb9yKGPTitsVK42DqYEbRULSNNolcTCiTf7YYIP3gOVBdPY1Y2idisBQ==" length="12893297"/>
+    </item>    <item>
       <title>Version 1.0.7</title>
       <pubDate>Sun, 08 Nov 2026 14:44:14 GMT</pubDate>
       <sparkle:version>200</sparkle:version>
