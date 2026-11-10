@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.12</title>
+      <pubDate>Tue, 10 Nov 2026 09:27:20 GMT</pubDate>
+      <sparkle:version>205</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Calendar: the event popover has Email Guests, and Email Guests fills the subject with the event title.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.12/RemedioMail-1.0.12.zip" type="application/octet-stream" sparkle:edSignature="804TkD+YXZXy/9DRZ3LRi3Epx70fh53gsi882Yd6Ti6X0VoO2WTj7ezmDsWe59QN5dL5pAniV375jHr8U+4oDg==" length="12861068"/>
+    </item>    <item>
       <title>Version 1.0.11</title>
       <pubDate>Mon, 09 Nov 2026 21:38:20 GMT</pubDate>
       <sparkle:version>204</sparkle:version>
