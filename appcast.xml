@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.14</title>
+      <pubDate>Thu, 12 Nov 2026 20:24:03 GMT</pubDate>
+      <sparkle:version>207</sparkle:version>
+      <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Your accounts always show at launch: a slow company directory no longer holds them back.</li><li>If the app can't read your accounts, it keeps what it showed, says so, and tries again.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.14/RemedioMail-1.0.14.zip" type="application/octet-stream" sparkle:edSignature="H4lYujZbDxD6ZzqPhx9CuW9fBKtXDrszBgeZ77zhaWHx0q2OwFIEItU10PXWhkcXEVMIUBxem5lr/5gzxtIpAg==" length="12891879"/>
+    </item>    <item>
       <title>Version 1.0.13</title>
       <pubDate>Thu, 12 Nov 2026 13:21:41 GMT</pubDate>
       <sparkle:version>206</sparkle:version>
