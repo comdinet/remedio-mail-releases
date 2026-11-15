@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.18</title>
+      <pubDate>Sun, 15 Nov 2026 17:08:29 GMT</pubDate>
+      <sparkle:version>211</sparkle:version>
+      <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Fixes a crash a few seconds after launch in 1.0.16 and 1.0.17. Background body download is off for now; messages download when you open them, as before.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.18/RemedioMail-1.0.18.zip" type="application/octet-stream" sparkle:edSignature="norE1zKkBuPJkDP2B22lH7oMz7ELVsy0tIuqIkr/XoC7X+SCxS1wO6vFLSyKbrQN9uSZ79DM9LKDlT1pvohPAQ==" length="12917535"/>
+    </item>    <item>
       <title>Version 1.0.17</title>
       <pubDate>Sun, 15 Nov 2026 16:53:13 GMT</pubDate>
       <sparkle:version>210</sparkle:version>
