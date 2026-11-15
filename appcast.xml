@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.17</title>
+      <pubDate>Sun, 15 Nov 2026 16:53:13 GMT</pubDate>
+      <sparkle:version>210</sparkle:version>
+      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>A message's attachments wrap into rows instead of scrolling sideways, so you can see every file. Lots of files scroll inside the strip.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.17/RemedioMail-1.0.17.zip" type="application/octet-stream" sparkle:edSignature="lW8vzK2iZcIHc+aHHUNRLRanHkiW6ekO40yyyiK75Gpu4HegYW5F+2H+BKreNOo5KvKH7fcXoZLjL1E+wwySDQ==" length="12917513"/>
+    </item>    <item>
       <title>Version 1.0.16</title>
       <pubDate>Sun, 15 Nov 2026 16:16:59 GMT</pubDate>
       <sparkle:version>209</sparkle:version>
