@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.24</title>
+      <pubDate>Wed, 18 Nov 2026 19:18:37 GMT</pubDate>
+      <sparkle:version>217</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Claude can now read attachments in Remedio Mail: PDFs (scanned pages as pictures), Excel, Word, CSV, text and pictures, through a new read-only tool. Damaged files are refused rather than misread. Attachment content is treated as data, never as instructions.</p><p>Also: a clearer message when Claude's Remedio Mail connection needs reconnecting after an update.</p>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.24/RemedioMail-1.0.24.zip" type="application/octet-stream" sparkle:edSignature="cfwR8WD/JKCC2BvYPdFTiFPXvPK06bh+fNsOpP7dI0Cq4lKVbeJzn2zPvdXK/O5wUnxfB2WNSr3pbiJJ+ovODw==" length="12986155"/>
+    </item>    <item>
       <title>Version 1.0.23</title>
       <pubDate>Wed, 18 Nov 2026 19:03:30 GMT</pubDate>
       <sparkle:version>216</sparkle:version>
