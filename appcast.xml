@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.22</title>
+      <pubDate>Wed, 18 Nov 2026 17:30:51 GMT</pubDate>
+      <sparkle:version>215</sparkle:version>
+      <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>When Remedio Mail has been updated while Claude was still running its Remedio Mail connection, the message now says to reconnect it (in Claude Code: /mcp, or restart Claude Code) instead of a vague refusal.</p><p>The Claude plugin's launcher moved to server/ so the plugin can be uploaded to claude.ai.</p>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.22/RemedioMail-1.0.22.zip" type="application/octet-stream" sparkle:edSignature="i+slR5eNovbP+UjsEGRAhr3VIGs7m6limY/NeOUkvbqU3H6ABKyXgs6kYmZsS4/ZuPd8cAU1AsUsYV3V9THIBA==" length="12935392"/>
+    </item>    <item>
       <title>Version 1.0.21</title>
       <pubDate>Wed, 18 Nov 2026 10:43:06 GMT</pubDate>
       <sparkle:version>214</sparkle:version>
