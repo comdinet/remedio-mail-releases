@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.20</title>
+      <pubDate>Wed, 18 Nov 2026 10:23:39 GMT</pubDate>
+      <sparkle:version>213</sparkle:version>
+      <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<ul><li>Settings → Storage: choose how far back to download mail (1, 3 or 6 months, 1 or 2 years) instead of a message count, up to 5,000 messages per mailbox. Older mail is still found by search.</li><li>Your current choice carries over.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.20/RemedioMail-1.0.20.zip" type="application/octet-stream" sparkle:edSignature="gRFkUgmarFwXrG8IBt79nO3y8UOrm8GMqdlaePtAEoDZ1hSBuYL4XEo6qTEVKvOaESwxhFtb8XOGskf9ChpBBQ==" length="12926850"/>
+    </item>    <item>
       <title>Version 1.0.19</title>
       <pubDate>Sun, 15 Nov 2026 18:16:44 GMT</pubDate>
       <sparkle:version>212</sparkle:version>
