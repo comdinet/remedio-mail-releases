@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.25</title>
+      <pubDate>Thu, 19 Nov 2026 13:48:06 GMT</pubDate>
+      <sparkle:version>218</sparkle:version>
+      <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Drag messages from the list onto a folder or label in the sidebar to move them there, in every layout. The folder lights up when it will take the drop; Edit → Undo moves them back.</p><p>Also: mail moved out of Trash or Spam in Gmail now really leaves Trash or Spam on the server.</p>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.25/RemedioMail-1.0.25.zip" type="application/octet-stream" sparkle:edSignature="yuvdELTbyyYo5zhW7YxsJFlaIKbxcesgUOsevVMoqYQI5ssD5vYXYeGrQZrdRplJq+xqYAc+UAASQokxcnhSBw==" length="13000768"/>
+    </item>    <item>
       <title>Version 1.0.24</title>
       <pubDate>Wed, 18 Nov 2026 19:18:37 GMT</pubDate>
       <sparkle:version>217</sparkle:version>
