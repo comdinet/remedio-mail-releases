@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.29</title>
+      <pubDate>Tue, 24 Nov 2026 14:07:13 GMT</pubDate>
+      <sparkle:version>222</sparkle:version>
+      <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Forward now includes all of the original's attachments. Mail from Outlook and Gmail marks real files the same way as pictures in the body, so files like a .docx were left out. Reopening a draft saved on the server no longer drops its files either.</p>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.29/RemedioMail-1.0.29.zip" type="application/octet-stream" sparkle:edSignature="FSP7U9FFA3kGJ4WhFBWfWV6ehreTCcIBrZGwq12g7Jh2WSH9XfhDusKAOiSgU2tO/+cLjgFytpOf5nbZLAirAw==" length="13073214"/>
+    </item>    <item>
       <title>Version 1.0.28</title>
       <pubDate>Tue, 24 Nov 2026 12:50:02 GMT</pubDate>
       <sparkle:version>221</sparkle:version>
