@@ -3,6 +3,15 @@
   <channel>
     <title>Remedio Mail</title>
     <item>
+      <title>Version 1.0.28</title>
+      <pubDate>Tue, 24 Nov 2026 12:50:02 GMT</pubDate>
+      <sparkle:version>221</sparkle:version>
+      <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>New setting: Settings → Calendar → Move invitations to Trash after you respond. When it's on, answering an invitation (Accept, Maybe or Decline) from its email moves that email to Trash once your calendar has the answer. ⌘Z brings it back. Off by default.</p>]]></description>
+      <enclosure url="https://github.com/comdinet/remedio-mail-releases/releases/download/v1.0.28/RemedioMail-1.0.28.zip" type="application/octet-stream" sparkle:edSignature="vZS7+iwjx7zKMwMWPxHh12kpafRKGDktqRfdCFLzU5K0eWImNudKWk6YhdMDRIRKcVaW/nIufREQM/zI/cJXCQ==" length="13071360"/>
+    </item>    <item>
       <title>Version 1.0.27</title>
       <pubDate>Tue, 24 Nov 2026 12:28:36 GMT</pubDate>
       <sparkle:version>220</sparkle:version>
